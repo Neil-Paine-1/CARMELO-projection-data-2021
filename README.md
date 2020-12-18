@@ -1,6 +1,8 @@
 # CARMELO-projection-data-2021
 CARMELO player-projection data going into the 2020-21 season
 
+Underlying data from our NBA Player Projections interactive: https://projects.fivethirtyeight.com/2021-nba-player-projections/
+
 
 |     field     |                             description                             |
 |---------------|---------------------------------------------------------------------|
