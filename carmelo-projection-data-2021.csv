@@ -1,0 +1,852 @@
+player,player_id,team,position,age,rookie,war_mean_2021,war_mean_2022,war_mean_2023,war_mean_2024,war_mean_2025,5_year_WAR,2021_category
+Luka Doncic,doncilu01,Mavericks,SG,21.927446,,11.8,13.1,13.3,13.4,12.5,64.1,MVP CANDIDATE
+James Harden,hardeja01,Rockets,SG,31.436003,,16.1,13.1,13.7,11.4,9.2,63.5,MVP CANDIDATE
+Nikola Jokic,jokicni01,Nuggets,C,25.952087,,12.5,12.5,11.7,10.3,9.4,56.4,MVP CANDIDATE
+Jayson Tatum,tatumja01,Celtics,SF,22.918549,,10.2,11.3,11.1,10.5,10.3,53.4,ALL-STAR
+Giannis Antetokounmpo,antetgi01,Bucks,SF,26.157427,,9.9,11.7,11.6,9.7,10.3,53.2,ALL-STAR
+Anthony Davis,davisan02,Lakers,PF,27.895962,,11.8,10.1,10.2,8.9,8.7,49.8,MVP CANDIDATE
+Kawhi Leonard,leonaka01,Clippers,SF,29.596167,,11.4,9.7,8.5,8.6,8.2,46.4,MVP CANDIDATE
+Karl-Anthony Towns,townska01,Timberwolves,C,25.215607,,10.2,9.4,9.1,8.5,6.9,44.1,ALL-STAR
+Trae Young,youngtr01,Hawks,PG,22.370979,,8.6,9.7,7.8,8.5,8.3,42.9,ALL-STAR
+Joel Embiid,embiijo01,76ers,C,26.882957,,9.5,9.4,8.8,7.6,7.1,42.4,ALL-STAR
+Ben Simmons,simmobe01,76ers,SG,24.536619,,8.0,8.7,8.7,8.2,7.6,41.3,ALL-STAR
+Rudy Gobert,goberru01,Jazz,C,28.602327,,10.2,9.2,7.7,7.0,6.8,41.0,ALL-STAR
+Damian Lillard,lillada01,Trail Blazers,PG,30.551678,,10.6,9.1,8.1,7.0,5.2,39.9,ALL-STAR
+Jamal Murray,murraja01,Nuggets,PG,23.939768,,7.7,7.7,7.3,6.7,6.5,35.9,ALL-STAR
+Paul George,georgpa01,Clippers,SF,30.754278,,9.5,8.0,7.1,6.0,4.3,34.9,ALL-STAR
+Jimmy Butler,butleji01,Heat,SG,31.383984,,8.9,7.5,6.8,5.2,3.9,32.3,ALL-STAR
+LeBron James,jamesle01,Lakers,SF,36.090347,,11.3,8.0,4.8,4.0,2.5,30.5,ALL-STAR
+Kristaps Porzingis,porzikr01,Mavericks,PF,25.50308,,6.4,6.2,6.6,6.0,5.3,30.4,BORDERLINE ALL-STAR
+Deandre Ayton,aytonde01,Suns,C,22.529774,,5.4,5.9,5.9,6.2,5.8,29.2,FUTURE ALL-STAR
+Kemba Walker,walkeke02,Celtics,PG,30.73785,,8.5,7.1,5.6,4.5,3.0,28.8,ALL-STAR
+Shai Gilgeous-Alexander,gilgesh01,Thunder,SG,22.559891,,5.4,5.9,6.0,5.9,5.5,28.7,FUTURE ALL-STAR
+Lonzo Ball,balllo01,Pelicans,SG,23.266256,,5.8,5.8,6.1,5.4,5.4,28.4,FUTURE ALL-STAR
+Jaylen Brown,brownja02,Celtics,SF,24.273785,,6.0,5.9,5.4,5.2,4.8,27.4,BORDERLINE ALL-STAR
+De'Aaron Fox,foxde01,Kings,PG,23.118412,,5.8,5.9,5.5,5.1,5.1,27.3,BORDERLINE ALL-STAR
+Marcus Smart,smartma01,Celtics,SG,26.910336,,7.0,6.2,5.6,4.6,3.6,27.0,BORDERLINE ALL-STAR
+Kyrie Irving,irvinky01,Nets,PG,28.862423,,7.1,5.7,5.8,4.7,3.2,26.4,BORDERLINE ALL-STAR
+Zion Williamson,willizi01,Pelicans,PF,20.574949,,4.0,5.8,4.7,5.6,6.2,26.3,FUTURE ALL-STAR
+Jonathan Isaac,isaacjo01,Magic,PF,23.331964,,4.4,5.3,5.5,5.5,5.5,26.2,UP-AND-COMER
+Devin Booker,bookede01,Suns,SG,24.257359,,5.7,5.6,4.6,4.8,4.9,25.7,BORDERLINE ALL-STAR
+Jrue Holiday,holidjr01,Bucks,SG,30.642027,,7.9,6.3,4.7,3.7,2.6,25.3,ALL-STAR
+Donte DiVincenzo,divindo01,Bucks,SG,24.002737,,5.0,5.2,5.2,5.1,4.7,25.2,FUTURE ALL-STAR
+Bam Adebayo,adebaba01,Heat,C,23.542778,,5.1,5.3,4.9,4.9,4.2,24.4,BORDERLINE ALL-STAR
+Stephen Curry,curryst01,Warriors,PG,32.887062,,7.4,6.3,4.6,3.4,2.3,24.0,BORDERLINE ALL-STAR
+Tyrese Haliburton,halibty01,Kings,PG,20.922655,1,2.2,4.5,5.1,5.9,6.1,23.7,GREAT PROSPECT
+Donovan Mitchell,mitchdo01,Jazz,SG,24.402464,,5.2,5.4,4.6,4.3,4.3,23.7,BORDERLINE ALL-STAR
+Fred VanVleet,vanvlfr01,Raptors,SG,26.934977,,6.0,5.4,4.9,4.0,3.1,23.4,BORDERLINE ALL-STAR
+Derrick White,whitede01,Spurs,PG,26.587269,,5.4,5.1,4.8,4.2,3.9,23.4,BORDERLINE ALL-STAR
+Tyler Herro,herroty01,Heat,SG,21.034908,,3.6,4.4,4.8,5.0,5.4,23.2,FUTURE ALL-STAR
+Michael Porter Jr.,portemi01,Nuggets,PF,22.595482,,4.1,4.6,5.0,4.9,4.6,23.2,UP-AND-COMER
+Clint Capela,capelca01,Hawks,C,26.710472,,5.9,4.9,4.8,4.4,3.2,23.2,BORDERLINE ALL-STAR
+Kyle Lowry,lowryky01,Raptors,PG,34.858315,,8.5,7.0,4.0,2.1,1.5,23.1,ALL-STAR
+Mikal Bridges,bridgmi01,Suns,SF,24.424366,,5.0,4.8,4.6,4.4,4.1,23.0,UP-AND-COMER
+Brandon Ingram,ingrabr01,Pelicans,SF,23.416838,,4.8,4.9,4.9,4.2,4.1,22.9,UP-AND-COMER
+Domantas Sabonis,sabondo01,Pacers,C,24.750172,,5.1,4.9,4.6,4.0,3.7,22.3,UP-AND-COMER
+Ja Morant,moranja01,Grizzlies,PG,21.481176,,3.6,4.1,4.4,4.4,4.7,21.2,UP-AND-COMER
+Pascal Siakam,siakapa01,Raptors,PF,26.836414,,5.4,4.7,4.4,3.7,2.9,21.1,AVERAGE STARTER
+Bradley Beal,bealbr01,Wizards,SG,27.597536,,6.0,5.3,4.3,3.3,2.1,21.0,BORDERLINE ALL-STAR
+Jaren Jackson Jr.,jacksja02,Grizzlies,C,21.382614,,2.7,4.1,4.3,4.8,4.9,20.8,UP-AND-COMER
+Isaac Bonga,bongais01,Wizards,SG,21.23477,,2.4,4.1,4.5,4.7,4.7,20.5,UP-AND-COMER
+Khris Middleton,middlkh01,Bucks,SF,29.475702,,5.9,5.0,3.9,3.0,2.4,20.3,BORDERLINE ALL-STAR
+Robert Covington,covinro01,Trail Blazers,PF,30.135523,,6.3,4.9,4.0,2.9,2.1,20.3,BORDERLINE ALL-STAR
+Nikola Vucevic,vucevni01,Magic,C,30.275154,,6.0,4.8,4.1,3.1,2.2,20.3,BORDERLINE ALL-STAR
+Matisse Thybulle,thybuma01,76ers,SF,23.915127,,4.1,4.2,4.1,3.9,3.7,20.1,UP-AND-COMER
+Mitchell Robinson,robinmi01,Knicks,C,22.839151,,4.4,3.6,4.2,3.7,3.2,19.1,UP-AND-COMER
+Jarrett Allen,allenja01,Nets,C,22.784393,,4.3,3.9,3.9,3.6,3.1,18.8,UP-AND-COMER
+De'Anthony Melton,meltode01,Grizzlies,SG,22.683094,,3.3,3.8,4.0,4.1,3.4,18.6,UP-AND-COMER
+OG Anunoby,anunoog01,Raptors,SF,23.545517,,3.9,3.9,3.7,3.5,3.0,18.0,UP-AND-COMER
+Devonte' Graham,grahade01,Hornets,PG,25.943874,,4.3,3.9,3.6,3.2,2.7,17.8,AVERAGE STARTER
+Markelle Fultz,fultzma01,Magic,SG,22.680355,,2.8,3.6,3.4,3.9,3.9,17.7,UP-AND-COMER
+James Wiseman,wisemja01,Warriors,C,19.841204,1,0.9,3.2,4.2,4.5,4.9,17.7,GREAT PROSPECT
+Jakob Poeltl,poeltja01,Spurs,C,25.30048,,3.8,4.0,3.6,3.1,3.0,17.5,KEY ROLE PLAYER
+D'Angelo Russell,russeda01,Timberwolves,PG,24.94182,,3.8,4.0,3.5,3.3,2.8,17.4,UP-AND-COMER
+Chris Paul,paulch01,Suns,PG,35.742641,,7.2,4.3,2.9,1.8,1.1,17.3,BORDERLINE ALL-STAR
+Dejounte Murray,murrade01,Spurs,PG,24.36961,,3.4,3.6,3.7,3.2,3.0,16.9,UP-AND-COMER
+Jusuf Nurkic,nurkiju01,Trail Blazers,C,26.444901,,4.1,4.0,3.5,2.9,2.5,16.9,KEY ROLE PLAYER
+Anthony Edwards,edwaran01,Timberwolves,SF,19.493496,1,0.5,2.7,4.5,4.7,4.4,16.9,GREAT PROSPECT
+CJ McCollum,mccolcj01,Trail Blazers,SG,29.371664,,5.1,4.3,3.2,2.3,1.7,16.7,AVERAGE STARTER
+Josh Richardson,richajo01,Mavericks,SG,27.381247,,4.6,4.0,3.3,2.8,1.9,16.6,AVERAGE STARTER
+Furkan Korkmaz,korkmfu01,76ers,SG,23.526352,,3.1,3.4,3.4,3.4,3.3,16.5,UP-AND-COMER
+Andre Drummond,drumman01,Cavaliers,C,27.479809,,4.6,4.0,3.2,2.7,2.0,16.5,AVERAGE STARTER
+Devin Vassell,vassede01,Spurs,SG,20.443531,1,1.1,2.9,3.5,4.3,4.7,16.5,GREAT PROSPECT
+Chuma Okeke,okekech01,Magic,PF,21.456535,1,2.4,3.1,3.4,3.6,3.6,16.2,GOOD PROSPECT
+Aaron Holiday,holidaa01,Pacers,PG,24.339493,,3.4,3.5,3.4,3.1,2.8,16.2,UP-AND-COMER
+Terence Davis,daviste02,Raptors,SG,23.715263,,3.1,3.3,3.3,3.4,3.1,16.2,UP-AND-COMER
+Davis Bertans,bertada01,Wizards,PF,28.221766,,4.2,3.6,3.5,2.7,2.0,16.1,KEY ROLE PLAYER
+LaMelo Ball,ballla01,Hornets,SG,19.446955,1,1.7,2.9,2.5,4.0,5.0,16.1,GREAT PROSPECT
+John Collins,collijo01,Hawks,PF,23.359343,,3.3,3.3,3.2,3.2,2.8,15.8,AVERAGE STARTER
+Christian Wood,woodch01,Rockets,PF,25.34976,,3.2,3.4,3.4,2.8,2.7,15.6,KEY ROLE PLAYER
+Josh Hart,hartjo01,Pelicans,SF,25.91102,,3.7,3.7,3.1,2.7,2.3,15.4,KEY ROLE PLAYER
+Victor Oladipo,oladivi01,Pacers,SG,28.747433,,4.4,3.7,3.0,2.6,1.7,15.4,KEY ROLE PLAYER
+Derrick Favors,favorde01,Jazz,C,29.552361,,4.4,3.9,2.8,2.4,1.7,15.3,KEY ROLE PLAYER
+Alex Caruso,carusal01,Lakers,PG,26.926762,,3.5,3.5,3.2,2.8,2.4,15.3,KEY ROLE PLAYER
+Steven Adams,adamsst01,Pelicans,C,27.537304,,3.9,3.5,3.0,2.4,1.8,14.6,AVERAGE STARTER
+Kelly Oubre Jr.,oubreke01,Warriors,SF,25.149897,,3.6,3.2,3.1,2.5,2.1,14.5,AVERAGE STARTER
+Ricky Rubio,rubiori01,Timberwolves,PG,30.283367,,4.9,3.7,2.6,1.8,1.3,14.3,GOOD STARTER
+Duncan Robinson,robindu01,Heat,SF,26.781656,,3.8,3.0,3.0,2.1,2.2,14.2,KEY ROLE PLAYER
+Montrezl Harrell,harremo01,Lakers,C,27.017111,,4.0,3.2,2.8,2.3,1.7,14.0,AVERAGE STARTER
+Derrick Jones Jr.,jonesde02,Trail Blazers,SF,23.96167,,3.0,3.0,2.9,2.8,2.3,13.9,UP-AND-COMER
+Eric Bledsoe,bledser01,Pelicans,PG,31.148529,,4.9,3.5,2.5,1.9,1.1,13.9,KEY ROLE PLAYER
+Spencer Dinwiddie,dinwisp01,Nets,PG,27.824778,,3.7,3.3,2.8,2.3,1.8,13.9,AVERAGE STARTER
+Troy Brown Jr.,browntr01,Wizards,SF,21.516769,,1.8,2.6,3.0,3.1,3.2,13.8,UP-AND-COMER
+Buddy Hield,hieldbu01,Kings,SG,28.12594,,3.8,3.3,2.9,2.1,1.6,13.8,AVERAGE STARTER
+Onyeka Okongwu,okongon01,Hawks,PF,20.142368,1,0.6,2.2,3.0,3.5,4.2,13.5,GOOD PROSPECT
+Hassan Whiteside,whiteha01,Kings,C,31.638603,,4.1,4.0,2.5,1.3,1.5,13.4,KEY ROLE PLAYER
+Patrick Williams,willipa01,Bulls,SG,19.436003,1,0.1,1.9,2.6,3.8,4.8,13.1,GREAT PROSPECT
+Bogdan Bogdanovic,bogdabo01,Hawks,SF,28.457222,,3.7,3.1,2.8,2.1,1.5,13.1,ROTATION PLAYER
+Jonas Valanciunas,valanjo01,Grizzlies,C,28.741957,,3.7,3.2,2.5,2.1,1.6,13.1,KEY ROLE PLAYER
+Killian Hayes,hayeski01,Pistons,SG,19.518139,1,1.0,1.9,2.3,3.6,4.2,13.1,GREAT PROSPECT
+Keldon Johnson,johnske04,Spurs,SF,21.31143,,1.6,2.2,3.0,3.2,2.9,12.9,ROTATION PLAYER
+Danilo Gallinari,gallida01,Hawks,SF,32.4846,,4.4,3.6,2.3,1.6,1.0,12.9,KEY ROLE PLAYER
+Jordan McLaughlin,mclaujo01,,PG,24.81588,,2.6,2.7,2.7,2.6,2.3,12.8,KEY ROLE PLAYER
+Kris Dunn,dunnkr01,Hawks,SG,26.877481,,2.7,2.8,2.8,2.5,2.0,12.8,ROTATION PLAYER
+Caris LeVert,leverca01,Nets,SF,26.439425,,3.2,3.0,2.6,2.1,1.8,12.7,ROTATION PLAYER
+Coby White,whiteco01,Bulls,SG,20.960985,,1.6,2.3,2.8,2.8,3.2,12.7,UP-AND-COMER
+Zach LaVine,lavinza01,Bulls,SG,25.900068,,3.1,3.0,2.5,2.2,1.9,12.7,AVERAGE STARTER
+Naz Reid,reidna01,Timberwolves,C,21.437372,,1.8,2.4,2.9,3.1,2.5,12.7,UP-AND-COMER
+Jalen Brunson,brunsja01,Mavericks,PG,24.421629,,2.5,2.7,2.6,2.3,2.2,12.3,ROTATION PLAYER
+Myles Turner,turnemy01,Pacers,C,24.859686,,3.1,2.8,2.5,2.0,1.8,12.3,AVERAGE STARTER
+Danny Green,greenda02,76ers,SG,33.615334,,4.8,3.6,2.1,1.2,0.6,12.2,KEY ROLE PLAYER
+Cam Reddish,reddica01,Hawks,SF,21.420944,,1.2,2.1,2.9,3.0,3.0,12.2,UP-AND-COMER
+Cody Martin,martico01,Hornets,SG,25.347023,,2.5,2.6,2.6,2.3,2.1,12.1,KEY ROLE PLAYER
+Luguentz Dort,dortlu01,Thunder,SF,21.790554,,2.0,2.4,2.8,2.8,2.1,12.1,ROTATION PLAYER
+T.J. Warren,warretj01,Pacers,PF,27.408625,,3.5,2.9,2.4,2.0,1.3,12.1,AVERAGE STARTER
+Otto Porter Jr.,porteot01,Bulls,SF,27.665981,,3.4,3.0,2.3,2.0,1.3,12.0,KEY ROLE PLAYER
+Royce O'Neale,onealro01,Jazz,SF,27.660507,,3.4,2.8,2.4,2.1,1.4,11.9,ROTATION PLAYER
+Malcolm Brogdon,brogdma01,Pacers,PG,28.142368,,3.2,2.8,2.5,1.9,1.5,11.9,ROTATION PLAYER
+Delon Wright,wrighde01,Pistons,PG,28.769337,,3.2,2.9,2.5,1.8,1.4,11.8,KEY ROLE PLAYER
+Evan Fournier,fournev01,Magic,SF,28.260096,,3.6,2.9,2.4,1.7,1.2,11.8,AVERAGE STARTER
+Tobias Harris,harrito02,76ers,PF,28.550308,,3.9,3.1,2.2,1.5,1.0,11.8,AVERAGE STARTER
+Josh Okogie,okogijo01,Timberwolves,SG,22.420259,,2.1,2.5,2.6,2.6,2.0,11.7,ROTATION PLAYER
+Tim Hardaway Jr.,hardati02,Mavericks,SG,28.881588,,3.7,3.0,2.3,1.7,1.1,11.7,AVERAGE STARTER
+Mo Bamba,bambamo01,Magic,C,22.7269,,2.0,2.3,2.6,2.3,2.2,11.4,ROTATION PLAYER
+Gary Trent Jr.,trentga02,Trail Blazers,SG,22.0397,,1.7,2.3,2.5,2.7,2.2,11.4,ROTATION PLAYER
+Tony Bradley,bradlto01,76ers,C,23.066393,,1.9,2.2,2.4,2.7,2.1,11.3,UP-AND-COMER
+Larry Nance Jr.,nancela02,Cavaliers,C,28.084873,,3.2,2.7,2.3,1.9,1.2,11.3,ROTATION PLAYER
+Russell Westbrook,westbru01,Wizards,PG,32.221767,,3.8,2.8,2.3,1.3,0.9,11.2,AVERAGE STARTER
+Rondae Hollis-Jefferson,holliro01,Timberwolves,SF,26.080767,,2.7,2.8,2.2,1.8,1.6,11.1,KEY ROLE PLAYER
+Aaron Gordon,gordoaa01,Magic,PF,25.379877,,2.8,2.6,2.2,1.9,1.5,11.0,AVERAGE STARTER
+Patrick Beverley,beverpa01,Clippers,PG,32.558521,,4.1,3.0,2.1,1.2,0.6,10.9,KEY ROLE PLAYER
+Kevin Durant,duranke01,Nets,PF,32.342232,,3.3,2.7,1.9,2.0,1.0,10.9,KEY ROLE PLAYER
+Dillon Brooks,brookdi01,Grizzlies,SF,25.029432,,2.4,2.3,2.4,2.0,1.7,10.7,ROTATION PLAYER
+Deni Avdija,avdijde01,Wizards,SF,20.079397,1,0.4,1.2,2.0,3.2,3.9,10.7,GREAT PROSPECT
+Shaquille Harrison,harrish01,Jazz,SG,27.323751,,2.3,2.5,2.0,2.1,1.8,10.6,KEY ROLE PLAYER
+Cameron Payne,payneca01,Suns,PG,26.485968,,2.6,2.3,2.1,1.9,1.8,10.6,KEY ROLE PLAYER
+Bruce Brown,brownbr01,Nets,SG,24.465435,,2.2,2.3,2.3,2.0,1.9,10.6,ROTATION PLAYER
+Michael Carter-Williams,cartemi01,Magic,PG,29.314169,,3.1,2.7,2.0,1.4,1.1,10.4,KEY ROLE PLAYER
+Justise Winslow,winslju01,Grizzlies,SG,24.85421,,2.4,2.2,2.2,2.0,1.6,10.4,ROTATION PLAYER
+Robert Williams III,williro04,Celtics,C,23.293634,,2.0,2.1,2.0,2.2,2.0,10.3,KEY ROLE PLAYER
+Kevin Huerter,huertke01,Hawks,SG,22.433949,,1.4,2.1,2.2,2.4,2.2,10.3,ROTATION PLAYER
+Josh Jackson,jacksjo02,Pistons,SF,23.975359,,1.9,2.1,2.0,2.2,2.0,10.3,ROTATION PLAYER
+Brandon Clarke,clarkbr01,Grizzlies,C,24.36961,,2.0,2.2,2.3,2.0,1.7,10.2,ROTATION PLAYER
+Payton Pritchard,pritcpa01,Celtics,PG,23.011635,1,1.1,2.1,2.3,2.3,2.4,10.2,OK PROSPECT
+Xavier Tillman,tillmxa01,Grizzlies,PF,22.056126,1,0.8,1.6,2.3,2.6,2.7,10.1,GOOD PROSPECT
+Ivica Zubac,zubaciv01,Clippers,C,23.876797,,2.0,1.8,2.3,2.1,1.8,10.0,ROTATION PLAYER
+Nemanja Bjelica,bjeline01,Kings,PF,32.733746,,3.7,2.6,1.8,1.1,0.7,10.0,KEY ROLE PLAYER
+Kendrick Nunn,nunnke01,Heat,SG,25.500341,,2.3,2.3,2.0,1.8,1.5,9.9,ROTATION PLAYER
+Jeremiah Martin,martije02,Nets,PG,24.621492,,1.8,2.1,2.2,1.9,1.9,9.9,KEY ROLE PLAYER
+Nerlens Noel,noelne01,Knicks,C,26.81451,,2.6,2.3,1.8,1.7,1.4,9.8,ROTATION PLAYER
+Talen Horton-Tucker,hortota01,Lakers,SF,20.186174,,0.8,0.8,1.8,3.1,3.2,9.7,UP-AND-COMER
+Kira Lewis Jr,lewiski01,Pelicans,PG,19.824778,1,0.1,1.6,2.2,2.6,3.2,9.7,GOOD PROSPECT
+Dennis Schroder,schrode01,Lakers,PG,27.381247,,2.8,2.5,1.9,1.5,0.9,9.6,AVERAGE STARTER
+Frank Ntilikina,ntilila01,Knicks,PG,22.516085,,1.3,1.9,1.9,2.4,2.1,9.6,ROTATION PLAYER
+Arnoldas Kulboka,kulboar01,,SF,23.077345,1,1.0,1.5,2.5,1.8,2.7,9.6,OK PROSPECT
+Jalen Smith,smithja04,Suns,C,20.881588,1,0.5,1.5,2.2,2.5,2.9,9.6,GOOD PROSPECT
+Dorian Finney-Smith,finnedo01,Mavericks,PF,27.748117,,2.7,2.3,1.9,1.6,1.0,9.5,ROTATION PLAYER
+RJ Hampton,hamptrj01,Nuggets,PG,19.983572,1,0.8,1.0,1.8,2.9,3.0,9.5,GOOD PROSPECT
+Jeremy Lamb,lambje01,Pacers,SG,28.676249,,2.4,2.2,2.1,1.6,1.1,9.5,ROTATION PLAYER
+Cameron Johnson,johnsca02,Suns,PF,24.917179,,1.9,2.0,2.2,1.8,1.6,9.4,ROTATION PLAYER
+Daniel Theis,theisda01,Celtics,C,28.829569,,2.7,2.3,1.9,1.4,1.1,9.4,ROTATION PLAYER
+Draymond Green,greendr01,Warriors,PF,30.915812,,3.4,2.5,1.6,1.1,0.6,9.3,KEY ROLE PLAYER
+Gary Harris,harriga01,Nuggets,SG,26.384668,,2.6,2.2,1.8,1.4,1.2,9.3,ROTATION PLAYER
+Shamorie Ponds,pondssh01,,PG,23.593428,1,1.7,1.8,1.8,2.0,1.9,9.3,OK PROSPECT
+Al Horford,horfoal01,Thunder,C,34.666668,,3.8,2.9,1.6,0.6,0.3,9.2,KEY ROLE PLAYER
+Justin Holiday,holidju01,Pacers,SG,31.827515,,3.3,2.4,1.5,1.2,0.6,9.0,ROTATION PLAYER
+Theo Maledon,maledth01,Thunder,PG,19.641342,1,0.6,1.0,1.5,2.8,3.0,8.9,GOOD PROSPECT
+Jarrett Culver,culveja01,Timberwolves,SG,21.94935,,1.1,1.6,1.9,2.2,2.1,8.9,PROJECT
+Tomas Satoransky,satorto01,Bulls,SG,29.259411,,2.5,2.3,1.8,1.3,0.9,8.9,ROTATION PLAYER
+Jaxson Hayes,hayesja02,Pelicans,C,20.695414,,0.3,1.7,2.0,2.5,2.2,8.7,PROJECT
+Desmond Bane,banede01,Grizzlies,SG,22.606434,1,0.8,1.6,2.0,2.1,2.1,8.7,OK PROSPECT
+Wendell Carter Jr.,cartewe01,Bulls,C,21.798767,,1.1,1.7,1.9,2.1,1.9,8.7,ROTATION PLAYER
+Lauri Markkanen,markkla01,Bulls,PF,23.698837,,1.5,1.9,1.7,1.8,1.6,8.7,ROTATION PLAYER
+Danuel House Jr.,houseda01,Rockets,SF,27.655031,,2.4,2.0,1.7,1.5,1.0,8.6,ROTATION PLAYER
+Landry Shamet,shamela01,Nets,SG,23.890486,,1.8,1.9,1.7,1.6,1.5,8.6,ROTATION PLAYER
+Romeo Langford,langfro01,Celtics,SF,21.2731,,0.9,1.4,2.2,1.9,2.1,8.5,ROTATION PLAYER
+Terrence Ross,rosste01,Magic,SG,29.990417,,2.9,2.2,1.6,1.0,0.6,8.5,ROTATION PLAYER
+Kelly Olynyk,olynyke01,Heat,PF,29.790554,,2.6,2.2,1.6,1.2,0.8,8.5,ROTATION PLAYER
+Jevon Carter,carteje01,Suns,PG,25.385353,,1.8,1.8,1.8,1.6,1.4,8.4,ROTATION PLAYER
+RJ Barrett,barrerj01,Knicks,SF,20.635181,,0.3,1.4,1.7,2.4,2.7,8.4,UP-AND-COMER
+Vit Krejci,krejcvi01,,PG,20.621492,1,0.7,1.1,1.6,2.4,2.6,8.3,GOOD PROSPECT
+James Young,youngja01,Knicks,SF,19.4647502,1,0.3,1.2,1.8,2.3,2.6,8.3,GOOD PROSPECT
+Svi Mykhailiuk,mykhasv01,Pistons,SF,23.646818,,1.4,1.7,1.7,1.8,1.6,8.2,ROTATION PLAYER
+Nickeil Alexander-Walker,alexani01,Pelicans,SG,22.417522,,1.3,1.5,1.6,1.9,1.9,8.2,ROTATION PLAYER
+Luka Samanic,samanlu01,Spurs,PF,21.065023,1,0.7,1.1,1.6,2.7,2.0,8.2,GOOD PROSPECT
+Cole Anthony,anthoco01,Magic,PG,20.717316,1,0.0,1.3,1.9,2.3,2.6,8.1,GOOD PROSPECT
+Dylan Windler,windldy01,Cavaliers,SF,23.359343,1,1.3,1.7,1.8,1.8,1.6,8.1,OK PROSPECT
+Tyus Jones,jonesty01,Grizzlies,PG,24.731007,,1.7,1.8,1.7,1.5,1.4,8.1,ROTATION PLAYER
+Jabari Parker,parkeja01,Kings,PF,25.886379,,2.0,2.0,1.6,1.4,1.1,8.1,ROTATION PLAYER
+Keenan Evans,evanske01,,PG,22.442162,1,1.6,1.5,2.0,1.3,1.7,8.1,GOOD PROSPECT
+Marvin Bagley III,baglema01,Kings,C,21.889116,,0.9,1.2,2.0,2.0,1.9,8.0,PROJECT
+Issuf Sanon,sanonis01,,PG,21.259411,1,0.8,1.1,2.1,1.5,2.5,8.0,OK PROSPECT
+Tre Jones,jonestr01,Spurs,PG,21.06776,1,0.4,1.5,1.6,2.1,2.5,8.0,OK PROSPECT
+Elfrid Payton,paytoel01,Knicks,PG,26.94319,,2.1,1.9,1.6,1.4,1.0,8.0,ROTATION PLAYER
+LaMarcus Aldridge,aldrila01,Spurs,C,35.540043,,3.8,2.1,1.1,0.5,0.4,8.0,AVERAGE STARTER
+Brook Lopez,lopezbr01,Bucks,C,32.837784,,3.2,2.3,1.3,0.8,0.4,8.0,ROTATION PLAYER
+Deividas Sirvydis,sirvyde01,Pistons,SF,20.646133,1,0.8,1.0,1.4,2.6,2.0,7.9,OK PROSPECT
+Damion Lee,leeda03,Warriors,SG,28.281998,,2.2,1.8,1.7,1.3,0.9,7.8,ROTATION PLAYER
+Luke Kennard,kennalu01,Clippers,SG,24.607803,,1.7,1.6,1.7,1.5,1.3,7.8,ROTATION PLAYER
+Cassius Winston,winstca01,Wizards,PG,22.926762,1,0.9,1.5,1.7,1.7,2.0,7.8,OK PROSPECT
+Josh Green,greenjo02,Mavericks,SG,20.210814,1,0.0,1.1,1.7,2.3,2.6,7.8,GOOD PROSPECT
+Andrew Wiggins,wiggian01,Warriors,SF,25.941135,,2.2,2.1,1.5,1.1,0.9,7.8,AVERAGE STARTER
+Leandro Bolmaro,bolmale01,,SG,20.391512,1,0.5,0.8,1.4,2.5,2.6,7.8,GOOD PROSPECT
+Joe Ingles,inglejo01,Jazz,SF,33.336071,,3.0,2.2,1.5,0.7,0.4,7.8,ROTATION PLAYER
+Will Barton,bartowi01,Nuggets,SG,30.072554,,2.8,2.0,1.4,0.9,0.5,7.8,ROTATION PLAYER
+Monte Morris,morrimo01,Nuggets,PG,25.601643,,1.8,1.9,1.6,1.4,1.2,7.7,ROTATION PLAYER
+De'Andre Hunter,huntede01,Hawks,SF,23.167694,,1.2,1.5,1.8,1.6,1.6,7.7,PROJECT
+Jontay Porter,portejo01,Grizzlies,C,20.213551,1,0.5,1.0,1.3,2.4,2.6,7.7,GOOD PROSPECT
+Tony Carr,carrto01,Pelicans,PG,21.308691,1,0.9,1.2,1.9,1.4,2.2,7.7,GOOD PROSPECT
+Isaac Okoro,okorois01,Cavaliers,SG,20.016426,1,-0.6,1.0,1.8,2.4,3.1,7.6,OK PROSPECT
+Mike Conley,conlemi01,Jazz,PG,33.311432,,3.4,2.2,1.1,0.6,0.3,7.6,KEY ROLE PLAYER
+Trey Burke,burketr01,Mavericks,PG,28.221766,,2.3,1.8,1.6,1.2,0.8,7.6,KEY ROLE PLAYER
+Dario Saric,saricda01,Suns,PF,26.819986,,2.1,1.8,1.5,1.2,0.9,7.6,ROTATION PLAYER
+Garrison Mathews,mathega01,Wizards,SG,24.273785,,2.1,1.8,1.4,1.1,1.1,7.5,<SHRUGGIE>
+Zach Collins,colliza01,Trail Blazers,C,23.203285,,1.5,1.7,1.6,1.5,1.2,7.5,ROTATION PLAYER
+Richaun Holmes,holmeri01,Kings,C,27.29911,,2.2,1.7,1.5,1.2,0.9,7.5,ROTATION PLAYER
+Chris Boucher,bouchch01,Raptors,PF,28.057495,,2.1,1.5,1.3,1.4,1.1,7.4,KEY ROLE PLAYER
+Kevin Love,loveke01,Cavaliers,C,32.402466,,2.9,2.0,1.2,0.8,0.4,7.3,ROTATION PLAYER
+Malik Beasley,beaslma01,Timberwolves,SG,24.183435,,1.4,1.6,1.5,1.4,1.3,7.3,ROTATION PLAYER
+P.J. Washington,washipj01,Hornets,PF,22.444901,,1.1,1.5,1.6,1.6,1.3,7.2,PROJECT
+Moritz Wagner,wagnemo01,Wizards,C,23.770021,,1.2,1.5,1.5,1.7,1.3,7.2,ROTATION PLAYER
+Jalen McDaniels,mcdanja01,Hornets,PF,23.003422,,1.3,1.4,1.6,1.5,1.3,7.1,ROTATION PLAYER
+Kentavious Caldwell-Pope,caldwke01,Lakers,SG,27.953457,,2.2,1.8,1.4,1.0,0.7,7.0,ROTATION PLAYER
+Willie Cauley-Stein,caulewi01,Mavericks,C,27.457905,,1.9,1.6,1.4,1.2,0.9,7.0,ROTATION PLAYER
+Caleb Martin,martica02,Hornets,SF,25.347023,,1.6,1.5,1.6,1.2,1.0,7.0,ROTATION PLAYER
+Jerami Grant,grantje01,Pistons,PF,26.893908,,2.3,1.7,1.4,1.0,0.6,6.9,AVERAGE STARTER
+Paul Reed,reedpa01,76ers,PF,21.637234,1,0.5,1.0,1.5,1.9,2.0,6.9,OK PROSPECT
+Tremont Waters,watertr01,Celtics,PG,23.060917,,0.4,1.5,1.9,1.7,1.3,6.8,ROTATION PLAYER
+Grant Williams,willigr01,Celtics,PF,22.173853,,1.2,1.5,1.6,1.5,1.1,6.8,ROTATION PLAYER
+Joe Harris,harrijo01,Nets,SF,29.407255,,2.1,1.9,1.3,0.9,0.6,6.8,ROTATION PLAYER
+Jae Crowder,crowdja01,Suns,SF,30.576317,,2.8,1.8,1.2,0.7,0.4,6.8,ROTATION PLAYER
+Kenrich Williams,willike04,Thunder,SF,26.168377,,1.5,1.7,1.3,1.1,1.1,6.8,ROTATION PLAYER
+Devon Dotson,dotsode01,Bulls,PG,22.503078,1,1.1,1.2,1.3,1.6,1.6,6.7,OK PROSPECT
+Jordan Clarkson,clarkjo01,Jazz,SG,28.654346,,2.1,1.7,1.3,0.9,0.6,6.7,ROTATION PLAYER
+Skylar Mays,mayssk01,Hawks,PG,23.408623,1,0.7,1.3,1.5,1.6,1.6,6.6,OK PROSPECT
+Kyle Anderson,anderky01,Grizzlies,SF,27.367556,,1.8,1.5,1.3,1.2,0.8,6.6,ROTATION PLAYER
+Maxi Kleber,klebima01,Mavericks,PF,29.010267,,2.0,1.6,1.3,1.0,0.7,6.6,ROTATION PLAYER
+Juancho Hernangomez,hernaju01,Timberwolves,PF,25.347023,,1.4,1.5,1.5,1.2,1.0,6.6,ROTATION PLAYER
+Shabazz Napier,napiesh01,,PG,29.555099,,2.1,1.8,1.3,0.9,0.5,6.6,ROTATION PLAYER
+Dwight Powell,poweldw01,Mavericks,C,29.538671,,1.6,1.6,1.5,1.1,0.7,6.5,ROTATION PLAYER
+Saben Lee,leesa01,Pistons,PG,21.612593,1,0.4,1.1,1.5,1.6,1.9,6.5,OK PROSPECT
+Dedric Lawson,lawsode01,,PF,22.335386,1,1.0,1.3,1.4,1.5,1.3,6.5,OK PROSPECT
+Nikola Mirotic,mirotni01,,PF,29.973989,,2.1,1.6,1.3,0.9,0.6,6.5,ROTATION PLAYER
+Zhaire Smith,smithzh01,Grizzlies,SF,21.664614,,0.8,1.1,1.5,1.2,1.8,6.4,ROTATION PLAYER
+Kevin Porter Jr.,porteke02,Cavaliers,SG,20.747433,,0.3,0.9,1.4,2.0,1.8,6.4,PROJECT
+Norman Powell,powelno01,Raptors,SG,27.690622,,1.9,1.6,1.2,1.1,0.6,6.4,ROTATION PLAYER
+Chris Chiozza,chiozch01,Nets,PG,25.199179,,1.2,1.4,1.4,1.3,1.1,6.4,ROTATION PLAYER
+Raul Neto,netora01,Wizards,PG,28.706366,,1.8,1.5,1.4,0.9,0.8,6.4,ROTATION PLAYER
+Kerwin Roach,roachke01,,PG,23.27173,1,1.1,1.3,1.3,1.4,1.2,6.4,OK PROSPECT
+Aaron Nesmith,nesmiaa01,Celtics,PF,21.297741,1,0.0,1.0,1.5,1.8,2.0,6.4,OK PROSPECT
+Patty Mills,millspa02,Spurs,PG,32.476387,,2.6,1.7,1.1,0.6,0.3,6.3,ROTATION PLAYER
+Mychal Mulder,muldemy01,Warriors,SG,26.642027,,1.6,1.2,1.3,1.1,0.9,6.2,ROTATION PLAYER
+DeMarcus Cousins,couside01,Rockets,C,30.472279,,1.3,1.6,1.5,1.1,0.6,6.1,<SHRUGGIE>
+Ty Jerome,jeromty01,Thunder,SG,23.570158,,0.8,1.2,1.3,1.4,1.3,6.1,ROTATION PLAYER
+Bol Bol,bolbo01,Nuggets,C,21.212868,,0.0,0.8,1.3,2.4,1.7,6.1,PROJECT
+Terry Rozier,roziete01,Hornets,PG,26.880219,,1.7,1.5,1.2,1.0,0.7,6.0,AVERAGE STARTER
+Malachi Flynn,flynnma01,Raptors,PG,22.732374,1,0.4,1.1,1.4,1.4,1.6,6.0,OK PROSPECT
+Bruno Caboclo,cabocbr01,Rockets,SF,25.366188,,1.1,1.3,1.4,1.1,1.0,6.0,ROTATION PLAYER
+Darius Bazley,bazleda01,Thunder,PF,20.640657,,0.2,0.7,1.4,1.9,1.8,6.0,DEFENSIVE SPECIALIST
+Denzel Valentine,valende01,Bulls,SG,27.211498,,1.5,1.4,1.1,1.1,0.9,6.0,ROTATION PLAYER
+Ryan Arcidiacono,arcidry01,Bulls,PG,26.855577,,1.3,1.4,1.2,1.0,1.0,5.9,ROTATION PLAYER
+Miye Oni,onimi01,Jazz,SG,23.496235,,1.0,1.1,1.2,1.3,1.2,5.9,ROTATION PLAYER
+Enes Kanter,kanteen01,Trail Blazers,C,28.703629,,1.9,1.6,1.1,0.7,0.5,5.8,ROTATION PLAYER
+Gordon Hayward,haywago01,Hornets,SF,30.863792,,2.4,1.6,1.0,0.6,0.3,5.8,ROTATION PLAYER
+Matt Thomas,thomama02,Raptors,SG,26.49692,,1.3,1.2,1.1,1.1,1.1,5.7,ROTATION PLAYER
+CJ Elleby,ellebcj01,Trail Blazers,SF,20.629705,1,0.2,0.8,1.2,1.6,1.9,5.7,OK PROSPECT
+Jahmi'us Ramsey,ramseja01,Kings,PG,19.649555,1,-0.2,0.7,1.2,1.8,2.2,5.7,OK PROSPECT
+Thomas Bryant,bryanth01,Wizards,C,23.507187,,1.1,1.2,1.3,1.3,0.8,5.7,ROTATION PLAYER
+Saddiq Bey,beysa01,Pistons,PF,21.817932,1,0.2,0.9,1.3,1.6,1.7,5.7,OK PROSPECT
+Tyrell Terry,terryty01,Mavericks,PG,20.344969,1,-0.1,0.7,1.2,1.7,2.1,5.6,OK PROSPECT
+Aleksej Pokusevski,pokusal01,Thunder,PF,19.101984,1,-0.4,0.1,1.1,2.1,2.7,5.6,GREAT PROSPECT
+Jaylen Hands,handsja01,,PG,20.969198,1,0.7,0.9,1.2,1.5,1.4,5.6,OK PROSPECT
+Jaylen Nowell,nowelja01,Timberwolves,SG,21.568789,,0.7,1.0,1.2,1.3,1.3,5.6,ROTATION PLAYER
+Goga Bitadze,bitadgo01,Pacers,C,21.538671,,0.4,0.9,1.2,1.6,1.4,5.5,DEFENSIVE SPECIALIST
+Ky Bowman,bowmaky01,,PG,23.63039,,0.7,1.1,1.3,1.3,1.1,5.5,PROJECT
+Precious Achiuwa,achiupr01,Heat,SF,21.371662,1,0.1,0.7,1.3,1.5,1.7,5.5,OK PROSPECT
+Isaiah Hartenstein,harteis01,Nuggets,C,22.746065,,0.8,0.9,1.3,1.4,1.1,5.4,ROTATION PLAYER
+Udoka Azubuike,azubuud01,Jazz,C,21.377138,1,0.2,0.8,1.4,1.5,1.6,5.4,OK PROSPECT
+Timothe Luwawu-Cabarrot,luwawti01,Nets,SG,25.735798,,1.2,1.3,1.1,1.0,0.8,5.4,ROTATION PLAYER
+Shake Milton,miltosh01,76ers,SG,24.350445,,1.0,1.1,1.1,1.1,1.1,5.4,ROTATION PLAYER
+Jarron Cumberland,jarron-cumberland-1,,SG,22.360027,1,0.9,1.1,1.1,1.2,1.0,5.3,MARGINAL PROSPECT
+Cory Joseph,josepco01,Kings,PG,29.453798,,1.8,1.6,1.0,0.6,0.4,5.3,ROTATION PLAYER
+Obi Toppin,toppiob01,Knicks,PF,22.91581,1,0.1,0.9,1.3,1.4,1.5,5.2,OK PROSPECT
+Trent Forrest,forretr01,Jazz,SG,22.642025,1,0.5,0.9,1.1,1.3,1.4,5.2,OK PROSPECT
+Nate Hinton,hintona01,Mavericks,SG,21.653662,1,0.3,0.8,1.1,1.5,1.6,5.2,OK PROSPECT
+Cody Zeller,zelleco01,Hornets,C,28.325804,,1.5,1.3,1.0,0.8,0.5,5.2,ROTATION PLAYER
+Josh Reaves,reavejo02,,SG,24.66119,1,1.0,1.1,1.1,1.1,0.9,5.1,MARGINAL PROSPECT
+TJ Leaf,leaftj01,Thunder,PF,23.759069,,0.7,1.2,1.1,1.2,1.0,5.1,ROTATION PLAYER
+Hamidou Diallo,diallha01,Thunder,SG,22.507872,,0.9,1.0,1.1,1.1,1.0,5.1,ROTATION PLAYER
+Gorgui Dieng,dienggo01,Grizzlies,C,31.039015,,1.8,1.4,0.9,0.5,0.3,5.1,ROTATION PLAYER
+Tyler Bey,beyty01,Mavericks,PF,22.976044,1,0.4,0.8,1.2,1.3,1.4,5.1,OK PROSPECT
+P.J. Tucker,tuckepj01,Rockets,PF,35.74538,,2.7,1.7,0.4,0.2,0.1,5.0,AVERAGE STARTER
+John Konchar,konchjo01,Grizzlies,SG,24.86516,,1.5,1.3,1.1,0.7,0.5,5.0,<SHRUGGIE>
+Seth Curry,curryse01,76ers,SG,30.444901,,2.0,1.3,0.9,0.5,0.3,5.0,ROTATION PLAYER
+PJ Dozier,doziepj01,Nuggets,PG,24.271048,,0.8,0.9,1.1,1.1,1.0,5.0,ROTATION PLAYER
+Amir Coffey,coffeam01,Clippers,SG,23.627653,,0.7,1.0,1.1,1.2,1.1,5.0,ROTATION PLAYER
+Adam Mokoka,mokokad01,Bulls,SG,22.543463,,0.9,1.0,1.0,1.2,0.8,4.9,ROTATION PLAYER
+Dakota Mathias,mathida01,76ers,SG,23.561943,1,0.7,0.8,1.3,0.8,1.2,4.9,OK PROSPECT
+Stanley Johnson,johnsst04,Raptors,SF,24.678988,,1.0,1.0,1.1,0.9,0.8,4.8,ROTATION PLAYER
+Goran Dragic,dragigo01,Heat,PG,34.743328,,2.5,1.3,0.6,0.3,0.1,4.8,ROTATION PLAYER
+Kadeem Allen,allenka01,,PG,28.046543,,1.2,1.1,1.0,0.9,0.5,4.8,ROTATION PLAYER
+Marquese Chriss,chrisma01,Warriors,PF,23.586584,,0.9,1.0,1.0,1.1,0.8,4.8,PROJECT
+Alen Smailagic,smailal01,Warriors,C,20.457222,,-0.1,0.4,0.9,1.9,1.7,4.8,PROJECT
+Isaiah Joe,joeis01,76ers,SG,21.587952,1,0.1,0.7,1.0,1.4,1.5,4.8,OK PROSPECT
+Alec Burks,burksal01,Knicks,SG,29.538671,,1.5,1.3,0.9,0.6,0.4,4.8,ROTATION PLAYER
+Vanja Marinkovic,marinva01,,SG,24.062971,1,0.4,0.6,0.9,1.6,1.3,4.8,OK PROSPECT
+A.J. Lawson,aj-lawson-12,,SG,19.548254,1,0.4,0.6,1.1,1.3,1.3,4.7,OK PROSPECT
+Dzanan Musa,musadz01,Pistons,SF,21.738535,,0.4,0.8,1.1,1.3,1.2,4.7,PROJECT
+John Henson,hensojo01,,C,30.097193,,1.6,1.2,0.9,0.6,0.3,4.7,ROTATION PLAYER
+Yam Madar,madarya01,,SG,20.11499,1,0.1,0.4,0.7,1.7,1.8,4.6,OK PROSPECT
+Frank Mason,masonfr01,,PG,26.833675,,1.1,1.0,0.9,0.9,0.7,4.6,ROTATION PLAYER
+Reggie Perry,perryre01,Nets,PF,20.867897,1,0.1,0.6,1.1,1.3,1.5,4.5,OK PROSPECT
+George Hill,hillge01,Thunder,PG,34.748802,,2.4,1.3,0.5,0.3,0.1,4.5,KEY ROLE PLAYER
+Terance Mann,mannte01,Clippers,SG,24.290213,,0.8,0.9,1.0,1.0,0.9,4.5,ROTATION PLAYER
+Cedi Osman,osmande01,Cavaliers,SF,25.820671,,1.1,1.2,0.9,0.7,0.6,4.5,SCRUB
+Justin James,jamesju01,Kings,SG,24.021902,,0.6,0.9,0.9,1.1,0.9,4.5,ROTATION PLAYER
+Daniel Gafford,gaffoda01,Bulls,C,22.338125,,0.8,0.9,1.1,1.0,0.6,4.5,ROTATION PLAYER
+Pat Connaughton,connapa01,Bucks,SG,28.071184,,1.2,1.0,0.9,0.8,0.5,4.4,ROTATION PLAYER
+Rodions Kurucs,kurucro01,Nets,SF,22.989733,,0.8,0.9,1.0,0.8,0.8,4.3,ROTATION PLAYER
+DeAndre' Bembry,bembrde01,Raptors,SF,26.581793,,1.1,0.9,0.9,0.7,0.7,4.3,ROTATION PLAYER
+Jerome Robinson,robinje01,Wizards,SG,23.942505,,0.6,0.9,0.9,1.0,0.8,4.3,PROJECT
+Dante Exum,exumda01,Cavaliers,PG,25.557837,,0.8,1.0,0.9,0.9,0.7,4.3,ROTATION PLAYER
+Nassir Little,littlna01,Trail Blazers,PF,20.974674,,0.1,0.5,1.0,1.4,1.3,4.3,PROJECT
+Marc Gasol,gasolma01,Lakers,C,36.008213,,2.5,1.0,0.4,0.2,0.1,4.3,SCRAPPY VETERAN
+Isaiah Roby,robyis01,Thunder,PF,23.993155,1,0.6,0.9,0.9,1.0,0.8,4.2,MARGINAL PROSPECT
+Darius Garland,garlada01,Cavaliers,PG,21.01848,,-0.2,0.5,1.0,1.4,1.5,4.2,PROJECT
+Paul Watson,watsopa01,Raptors,SG,26.091719,,0.9,0.9,0.8,0.8,0.8,4.2,ROTATION PLAYER
+Marcus Morris Sr.,morrima03,Clippers,PF,31.416838,,1.8,1.2,0.7,0.4,0.2,4.2,ROTATION PLAYER
+Miles Bridges,bridgmi02,Hornets,PF,22.869268,,0.5,0.9,1.1,0.9,0.8,4.2,PROJECT
+Immanuel Quickley,quickim01,Knicks,PG,21.629021,1,-0.1,0.6,1.0,1.3,1.4,4.2,OK PROSPECT
+Taurean Prince,princta02,Nets,PF,26.866529,,1.3,1.0,0.8,0.6,0.4,4.2,ROTATION PLAYER
+Justinian Jessup,jessuju01,,SF,22.696783,1,0.2,0.7,0.9,1.1,1.2,4.2,MARGINAL PROSPECT
+Dennis Smith Jr.,smithde03,Knicks,PG,23.186859,,0.4,0.8,1.0,1.0,0.9,4.1,PROJECT
+Robert Woodard II,woodaro01,Kings,SG,21.363449,1,0.1,0.6,0.9,1.2,1.3,4.1,OK PROSPECT
+Tyus Battle,battlty01,,SG,22.357288,1,0.6,0.8,0.9,1.0,0.8,4.1,MARGINAL PROSPECT
+David Nwaba,nwabada01,Rockets,SG,28.049282,,0.8,1.0,0.9,0.9,0.5,4.1,ROTATION PLAYER
+Jawun Evans,evansja01,,PG,24.520191,,0.3,0.5,0.7,1.3,1.3,4.1,ROTATION PLAYER
+Justin Jackson,jacksju02,,PF,21.952087,1,0.2,0.6,0.9,0.8,1.5,4.1,OK PROSPECT
+Markus Howard,howarma02,Nuggets,PG,21.919233,1,0.3,0.6,0.9,0.9,1.3,4.0,OK PROSPECT
+Julius Randle,randlju01,Knicks,PF,26.176592,,1.1,1.1,0.8,0.6,0.4,4.0,DUBIOUS STARTER
+Daryl Macon,maconda01,,PG,25.177277,,0.4,0.9,0.9,0.8,0.9,4.0,ROTATION PLAYER
+Jaylen Adams,adamsja01,Bucks,PG,24.747433,,0.5,0.8,0.8,1.1,0.8,3.9,ROTATION PLAYER
+Paul Millsap,millspa01,Nuggets,PF,35.975361,,2.3,1.0,0.4,0.2,0.1,3.9,SCRAPPY VETERAN
+Marcos Louzada,louzama01,,SG,21.984941,1,0.1,0.4,0.9,1.5,1.0,3.9,OK PROSPECT
+Devon Hall,hallde01,,PG,25.574265,,0.4,0.8,1.0,0.9,0.8,3.9,ROTATION PLAYER
+DaQuan Jeffries,jeffrda01,Kings,SF,23.425051,,0.7,0.8,0.8,0.8,0.6,3.9,ROTATION PLAYER
+Nico Mannion,mannini01,Warriors,PG,19.887747,1,-0.3,0.5,0.7,1.3,1.7,3.9,OK PROSPECT
+Chris Clemons,clemoch01,Rockets,PG,23.529089,,0.6,0.9,0.8,0.9,0.7,3.8,ROTATION PLAYER
+Tyler Ennis,ennisty01,,PG,26.442163,,0.7,0.8,0.8,0.8,0.8,3.8,ROTATION PLAYER
+Langston Galloway,gallola01,Suns,SG,29.149897,,1.3,1.1,0.8,0.4,0.2,3.8,ROTATION PLAYER
+Serge Ibaka,ibakase01,Clippers,PF,31.373032,,1.6,1.2,0.6,0.2,0.2,3.8,ROTATION PLAYER
+DJ Hogg,hoggdj01,,PF,22.412046,1,0.3,0.5,0.9,0.9,1.3,3.8,OK PROSPECT
+John Wall,walljo01,Rockets,PG,30.40657,,0.8,1.0,0.9,0.5,0.5,3.8,ROTATION PLAYER
+JaVale McGee,mcgeeja01,Cavaliers,C,33.037647,,1.9,0.8,0.6,0.4,0.1,3.7,ROTATION PLAYER
+Klay Thompson,thompkl01,Warriors,SG,30.98152,,1.3,1.0,0.8,0.5,0.2,3.7,ROTATION PLAYER
+Jaylen Barford,barfoja01,,SG,23.025324,1,0.5,0.5,1.0,0.7,1.1,3.7,OK PROSPECT
+Thaddeus Young,youngth01,Bulls,PF,32.616016,,1.7,1.1,0.6,0.3,0.1,3.7,ROTATION PLAYER
+Ben McLemore,mclembe01,Rockets,SF,27.972622,,1.1,0.8,0.7,0.6,0.4,3.7,ROTATION PLAYER
+Isaiah Stewart,stewais01,Pistons,C,19.698835,1,-0.4,0.3,0.9,1.2,1.7,3.7,OK PROSPECT
+Anzejs Pasecniks,pasecan01,Wizards,C,25.119781,,0.7,0.7,0.9,0.7,0.6,3.6,ROTATION PLAYER
+Nicolas Claxton,claxtni01,Nets,C,21.79603,,0.2,0.7,0.7,1.1,0.9,3.6,PROJECT
+Ashton Hagans,haganas01,Timberwolves,PG,21.571526,1,0.1,0.6,0.7,1.0,1.2,3.5,MARGINAL PROSPECT
+Theo Pinson,pinsoth01,Knicks,SG,25.242985,,0.5,0.7,0.8,0.8,0.7,3.5,ROTATION PLAYER
+Chandler Hutchison,hutchch01,Bulls,PF,24.769337,,0.7,0.7,0.9,0.7,0.6,3.5,PROJECT
+Mason Jones,jonesma05,Rockets,SG,22.53525,1,0.2,0.5,0.8,0.9,1.0,3.5,MARGINAL PROSPECT
+Yogi Ferrell,ferreyo01,,SG,27.734428,,0.9,0.9,0.6,0.7,0.4,3.5,ROTATION PLAYER
+Tyrese Maxey,maxeyty01,76ers,PG,20.243668,1,-0.6,0.3,0.8,1.3,1.6,3.5,OK PROSPECT
+Tyler Ulis,ulisty01,,PG,25.075975,,0.7,0.8,0.7,0.7,0.5,3.4,ROTATION PLAYER
+Rashad Vaughn,vaughra01,,SG,24.462696,,0.5,0.6,0.7,0.9,0.7,3.4,ROTATION PLAYER
+Wenyen Gabriel,gabriwe01,Pelicans,PF,23.854895,,0.5,0.7,0.8,0.8,0.6,3.4,ROTATION PLAYER
+Gary Payton II,paytoga02,,PG,28.169746,,0.7,0.7,0.8,0.8,0.5,3.4,ROTATION PLAYER
+Alex Len,lenal01,Raptors,C,27.63039,,0.9,0.8,0.7,0.6,0.4,3.4,ROTATION PLAYER
+Sagaba Konate,konatsa01,,C,22.872005,1,0.4,0.6,0.6,0.9,0.8,3.4,MARGINAL PROSPECT
+Kyle Kuzma,kuzmaky01,Lakers,PF,25.527721,,0.8,0.8,0.8,0.5,0.4,3.4,SCRUB
+Justin Robinson,robinju01,,PG,24.305269,1,0.6,0.8,0.6,0.7,0.6,3.3,MARGINAL PROSPECT
+Elijah Hughes,hugheel01,Jazz,SF,22.899384,1,0.1,0.5,0.8,0.9,1.0,3.3,MARGINAL PROSPECT
+Tres Tinkle,tinkltr01,,SF,24.665297,1,0.3,0.6,0.8,0.8,0.8,3.3,MARGINAL PROSPECT
+Kobi Simmons,simmoko01,,PG,23.581108,,0.3,0.6,0.8,0.9,0.7,3.3,ROTATION PLAYER
+Jemerrio Jones,jonesje01,,SF,25.817932,,0.5,0.8,0.8,0.7,0.5,3.3,<SHRUGGIE>
+Jordan Nwora,nworajo01,Bucks,PF,23.398357,1,0.4,0.7,0.7,0.8,0.7,3.3,MARGINAL PROSPECT
+Dragan Bender,bendedr01,,PF,23.208761,,0.6,0.6,0.7,0.7,0.6,3.3,PROJECT
+Isaiah Whitehead,whiteis01,,PG,25.905544,,0.4,0.7,0.7,0.8,0.7,3.3,ROTATION PLAYER
+Bojan Bogdanovic,bogdabo02,Jazz,SF,31.791924,,1.3,0.9,0.6,0.3,0.2,3.3,ROTATION PLAYER
+Grayson Allen,allengr01,Grizzlies,SG,25.319645,,0.6,0.7,0.8,0.6,0.6,3.2,SCRUB
+Oshae Brissett,brissos01,Raptors,SF,22.620123,,0.6,0.6,0.7,0.7,0.7,3.2,ROTATION PLAYER
+Collin Sexton,sextoco01,Cavaliers,PG,22.07803,,0.0,0.6,0.5,1.1,1.0,3.2,PROJECT
+Daniel Oturu,oturuda01,Clippers,C,21.368925,1,0.0,0.3,0.8,0.9,1.1,3.2,OK PROSPECT
+Charles Bassey,charles-bassey-1,,C,19.282682,1,0.0,0.5,0.4,1.4,1.0,3.2,GOOD PROSPECT
+Juan Toscano-Anderson,toscaju01,Warriors,SF,27.813826,,0.9,0.7,0.6,0.6,0.3,3.2,ROTATION PLAYER
+Dean Wade,wadede01,Cavaliers,PF,25.197809,1,0.5,0.7,0.7,0.7,0.5,3.2,MARGINAL PROSPECT
+Cheick Diallo,diallch01,,PF,24.386038,,0.5,0.7,0.8,0.7,0.5,3.1,PROJECT
+Kent Bazemore,bazemke01,Warriors,SF,31.589323,,1.4,0.9,0.5,0.3,0.1,3.1,ROTATION PLAYER
+Kaleb Wesson,wessoka01,Warriors,C,21.51403,1,0.1,0.4,0.7,0.8,1.0,3.1,OK PROSPECT
+Andrew Harrison,harrian01,,PG,26.264202,,0.5,0.6,0.7,0.7,0.6,3.1,ROTATION PLAYER
+Mfiondu Kabengele,kabenmf01,Clippers,C,24.466803,1,0.4,0.7,0.7,0.7,0.6,3.1,MARGINAL PROSPECT
+DeMar DeRozan,derozde01,Spurs,SF,31.488022,,1.4,0.8,0.5,0.2,0.1,3.1,DUBIOUS STARTER
+Wade Baldwin IV,baldwwa01,,PG,24.845995,,0.5,0.6,0.8,0.7,0.4,3.0,ROTATION PLAYER
+Khem Birch,birchkh01,Magic,C,28.344969,,0.9,0.7,0.6,0.5,0.3,3.0,ROTATION PLAYER
+Sindarius Thornwell,thornsi01,Pelicans,SG,26.214922,,0.7,0.7,0.6,0.6,0.5,3.0,ROTATION PLAYER
+Rui Hachimura,hachiru01,Wizards,PF,22.98152,,0.3,0.6,0.8,0.7,0.7,3.0,PROJECT
+Terrance Ferguson,fergute01,76ers,SG,22.713211,,0.4,0.6,0.6,0.7,0.6,3.0,PROJECT
+Daniel Hamilton,hamilda02,,SG,25.486652,,0.4,0.6,0.7,0.6,0.6,2.9,ROTATION PLAYER
+Kevon Looney,looneke01,Warriors,PF,24.988363,,0.5,0.6,0.7,0.6,0.4,2.8,DEFENSIVE SPECIALIST
+Nicolas Batum,batumni01,Clippers,SG,32.134155,,1.3,0.8,0.4,0.3,0.1,2.8,ROTATION PLAYER
+Tyrique Jones,tyrique-jones-1,,PF,23.750854,1,0.2,0.5,0.6,0.7,0.8,2.8,MARGINAL PROSPECT
+Noah Vonleh,vonleno01,,PF,25.442848,,0.6,0.7,0.6,0.5,0.4,2.8,ROTATION PLAYER
+Nigel Williams-Goss,willini01,,PG,23.379192,1,0.2,0.5,0.7,0.6,0.7,2.8,MARGINAL PROSPECT
+Sterling Brown,brownst02,Rockets,SF,25.976728,,0.5,0.7,0.6,0.5,0.5,2.8,SCRUB
+Skal Labissiere,labissk01,,PF,24.876112,,0.6,0.6,0.7,0.5,0.4,2.8,PROJECT
+Austin Rivers,riverau01,Knicks,SG,28.503765,,0.9,0.7,0.6,0.4,0.2,2.8,SCRUB
+Trevon Duval,duvaltr01,,PG,23.498287,1,0.1,0.3,0.7,0.6,1.1,2.8,GOOD PROSPECT
+Avery Bradley,bradlav01,Heat,SG,30.184805,,1.3,0.8,0.4,0.2,0.1,2.8,ROTATION PLAYER
+Isaiah Briscoe,briscis01,,PG,24.804928,,0.4,0.5,0.6,0.6,0.6,2.8,ROTATION PLAYER
+Myles Powell,powelmy01,Knicks,SG,23.572895,1,0.2,0.5,0.6,0.7,0.8,2.7,MARGINAL PROSPECT
+Andre Roberson,roberan03,,SF,29.163586,,0.8,0.7,0.6,0.4,0.2,2.7,<SHRUGGIE>
+Carsen Edwards,edwarca01,Celtics,SG,22.893908,,0.4,0.6,0.6,0.6,0.6,2.7,PROJECT
+Trey Lyles,lylestr01,Spurs,PF,25.242985,,0.6,0.7,0.6,0.5,0.4,2.7,SCRUB
+Rodney Hood,hoodro01,Trail Blazers,SG,28.284737,,0.5,0.6,0.8,0.5,0.3,2.7,SCRUB
+Reggie Jackson,jacksre01,Clippers,PG,30.798084,,1.2,0.8,0.4,0.2,0.1,2.7,ROTATION PLAYER
+T.J. McConnell,mccontj01,Pacers,PG,28.856947,,0.9,0.7,0.6,0.3,0.2,2.7,ROTATION PLAYER
+Jordan Poole,poolejo01,Warriors,SG,21.623545,,-0.4,0.4,0.8,0.9,1.0,2.7,PROJECT
+Justin Patton,pattoju01,Bucks,C,20.635866,1,-0.2,0.2,0.6,0.9,1.1,2.7,OK PROSPECT
+Dwight Howard,howardw01,76ers,C,35.151268,,1.4,0.7,0.2,0.2,0.2,2.7,SCRAPPY VETERAN
+Ty-Shon Alexander,alexaty01,Suns,SG,22.548939,1,0.1,0.4,0.6,0.7,0.8,2.7,MARGINAL PROSPECT
+Blake Griffin,griffbl01,Pistons,PF,31.882273,,0.9,0.6,0.6,0.3,0.3,2.6,ROTATION PLAYER
+Zach Norvell,norveza01,Bulls,SG,24.146475,1,0.4,0.6,0.6,0.6,0.5,2.6,MARGINAL PROSPECT
+Lonnie Walker IV,walkelo01,Spurs,SG,22.135523,,0.1,0.5,0.6,0.7,0.7,2.6,PROJECT
+Sam Merrill,merrisa01,Bucks,SG,24.717316,1,0.2,0.5,0.7,0.6,0.6,2.6,MARGINAL PROSPECT
+Elie Okobo,okoboel01,,PG,23.277208,,0.2,0.5,0.6,0.6,0.6,2.6,PROJECT
+Trevelin Queen,queentr01,,SG,23.93429,1,0.2,0.4,0.6,0.7,0.7,2.6,MARGINAL PROSPECT
+Justin Anderson,anderju01,76ers,SF,27.203285,,0.8,0.6,0.4,0.5,0.4,2.6,ROTATION PLAYER
+Dion Waiters,waitedi01,,SG,29.14716,,1.0,0.7,0.4,0.3,0.2,2.6,ROTATION PLAYER
+Derrick Walton Jr.,waltode01,,PG,25.83436,,0.5,0.5,0.6,0.5,0.4,2.6,ROTATION PLAYER
+Thon Maker,makerth01,Cavaliers,C,23.934292,,0.4,0.6,0.6,0.6,0.5,2.6,PROJECT
+Tristan Thompson,thomptr01,Celtics,C,29.891855,,1.1,0.7,0.4,0.3,0.0,2.6,ROTATION PLAYER
+Boban Marjanovic,marjabo01,Mavericks,C,32.465435,,1.2,0.6,0.5,0.2,0.1,2.6,<SHRUGGIE>
+Shane Larkin,larkish01,,PG,28.334019,,0.7,0.6,0.6,0.5,0.3,2.5,ROTATION PLAYER
+Alex Abrines,abrinal01,,SG,27.50445,,0.6,0.6,0.5,0.6,0.4,2.5,ROTATION PLAYER
+Zeke Nnaji,nnajize01,Nuggets,PF,20.062969,1,-0.4,0.1,0.6,0.9,1.2,2.5,OK PROSPECT
+Torrey Craig,craigto01,Bucks,SF,30.121834,,1.0,0.7,0.4,0.3,0.1,2.5,ROTATION PLAYER
+Brad Wanamaker,wanambr01,Warriors,PG,31.523615,,0.9,0.7,0.4,0.2,0.1,2.4,ROTATION PLAYER
+Brandon Goodwin,goodwbr01,Hawks,PG,25.336071,,0.4,0.5,0.6,0.5,0.4,2.4,SCRUB
+Kay Felder,feldeka01,,PG,25.848049,,0.3,0.3,0.6,0.7,0.5,2.4,ROTATION PLAYER
+Killian Tillie,tilliki02,Grizzlies,PF,23.913073,1,0.3,0.5,0.5,0.6,0.5,2.4,MARGINAL PROSPECT
+Jon Teske,teskejo01,Magic,C,23.748117,1,0.2,0.4,0.5,0.6,0.7,2.4,MARGINAL PROSPECT
+Freddie Gillespie,gillefr01,Mavericks,PF,23.635864,1,0.2,0.4,0.6,0.6,0.6,2.4,MARGINAL PROSPECT
+Maurice Harkless,harklma01,Heat,SF,27.728952,,0.9,0.6,0.4,0.4,0.1,2.4,ROTATION PLAYER
+Devin Robinson,robinde01,,SF,25.908281,,0.7,0.7,0.4,0.3,0.3,2.4,ROTATION PLAYER
+Reggie Bullock,bullore01,Knicks,SG,29.883642,,0.8,0.7,0.4,0.3,0.1,2.4,ROTATION PLAYER
+Kyle Guy,guyky01,Kings,SG,24.475016,1,0.3,0.5,0.5,0.6,0.5,2.4,MARGINAL PROSPECT
+Chasson Randle,randlch01,,PG,27.989048,,0.6,0.6,0.4,0.4,0.2,2.3,ROTATION PLAYER
+Mike Muscala,muscami01,Thunder,C,29.590691,,0.8,0.7,0.4,0.3,0.2,2.3,ROTATION PLAYER
+Walter Lemon Jr.,lemonwa01,,PG,28.520191,,0.6,0.6,0.5,0.4,0.2,2.3,ROTATION PLAYER
+JaKarr Sampson,sampsja02,Pacers,SF,27.871321,,0.7,0.5,0.4,0.4,0.2,2.3,ROTATION PLAYER
+Demetrius Jackson,jacksde01,,PG,26.403833,,0.4,0.4,0.5,0.5,0.5,2.3,ROTATION PLAYER
+Jared Harper,harpeja01,Knicks,PG,22.383984,1,0.3,0.4,0.5,0.4,0.6,2.2,MARGINAL PROSPECT
+Mason Plumlee,plumlma01,Pistons,C,30.913073,,0.9,0.6,0.4,0.2,0.1,2.2,ROTATION PLAYER
+Guerschon Yabusele,yabusgu01,,PF,25.127995,,0.4,0.5,0.5,0.4,0.4,2.2,ROTATION PLAYER
+Rawle Alkins,alkinra01,Pelicans,SG,23.26078,,0.2,0.4,0.5,0.5,0.5,2.2,PROJECT
+Nicolo Melli,mellini01,Pelicans,C,30.017796,,0.8,0.6,0.4,0.2,0.1,2.2,ROTATION PLAYER
+Tyreke Evans,evansty01,,SG,31.370295,,1.0,0.6,0.4,0.2,0.1,2.2,ROTATION PLAYER
+Wes Iwundu,iwundwe01,Mavericks,SF,26.119097,,0.4,0.6,0.5,0.4,0.4,2.2,SCRUB
+Jaylen Morris,morrija01,,SG,25.371664,,0.3,0.4,0.5,0.5,0.5,2.2,ROTATION PLAYER
+Khyri Thomas,thomakh01,,SG,24.736483,,0.3,0.4,0.5,0.5,0.4,2.2,PROJECT
+Isaiah Taylor,taylois01,,PG,26.562628,,0.4,0.4,0.5,0.5,0.4,2.2,ROTATION PLAYER
+Jordan Bone,bonejo01,Magic,PG,24.239561,1,0.3,0.5,0.4,0.5,0.5,2.2,MARGINAL PROSPECT
+Al-Farouq Aminu,aminual01,Magic,PF,30.365503,,0.9,0.5,0.4,0.3,0.1,2.2,ROTATION PLAYER
+Briante Weber,weberbr01,,PG,28.093086,,0.4,0.4,0.6,0.7,0.2,2.2,ROTATION PLAYER
+Jerian Grant,grantje02,Rockets,PG,28.314854,,0.6,0.5,0.5,0.4,0.2,2.2,ROTATION PLAYER
+Frank Kaminsky,kaminfr01,Kings,PF,27.830254,,0.6,0.5,0.4,0.4,0.2,2.2,SCRUB
+Ersan Ilyasova,ilyaser01,,PF,33.719372,,1.1,0.6,0.3,0.1,0.0,2.1,ROTATION PLAYER
+Henry Ellenson,ellenhe01,Raptors,PF,24.052019,,0.4,0.7,0.6,0.3,0.1,2.1,<SHRUGGIE>
+Anfernee Simons,simonan01,Trail Blazers,SG,21.653662,,-0.4,0.3,0.6,0.8,0.8,2.1,PROJECT
+Alize Johnson,johnsal02,Raptors,PF,24.780287,,0.4,0.4,0.5,0.4,0.4,2.1,PROJECT
+Vernon Carey Jr,careyve01,Hornets,C,19.93429,1,-0.3,0.1,0.6,0.8,1.0,2.1,OK PROSPECT
+Cameron Reynolds,reynoca01,Spurs,SG,25.984941,,0.4,0.4,0.5,0.4,0.4,2.1,ROTATION PLAYER
+JJ Redick,redicjj01,Pelicans,SG,36.607803,,1.2,0.6,0.2,0.2,0.0,2.1,SCRAPPY VETERAN
+James Palmer,palmeja01,,SF,23.504448,1,0.3,0.4,0.5,0.5,0.4,2.1,MARGINAL PROSPECT
+Ryan Broekhoff,broekry01,,SF,30.444901,,0.8,0.5,0.4,0.3,0.2,2.1,ROTATION PLAYER
+Jordan Ford,fordjo01,,PG,22.688568,1,0.0,0.3,0.5,0.6,0.7,2.1,MARGINAL PROSPECT
+Johnathan Motley,motlejo01,Suns,PF,25.749487,,0.3,0.7,0.5,0.5,0.2,2.1,SCRUB
+Vince Edwards,edwarvi01,,PF,25.82546,1,0.4,0.2,0.6,0.2,0.6,2.1,OK PROSPECT
+Aaron Harrison,harriaa01,,SG,26.264202,,0.3,0.4,0.3,0.6,0.4,2.1,ROTATION PLAYER
+Doral Moore,mooredo01,,C,22.028746,1,0.5,0.3,0.4,0.3,0.6,2.0,MARGINAL PROSPECT
+Rudy Gay,gayru01,Spurs,PF,34.461327,,1.1,0.6,0.3,0.1,0.0,2.0,ROTATION PLAYER
+Tyler Hall,tyler-hall-2,,SG,22.857632,1,0.1,0.3,0.5,0.5,0.6,2.0,MARGINAL PROSPECT
+Thanasis Antetokounmpo,antetth01,Bucks,SF,28.542095,,0.5,0.5,0.5,0.3,0.2,2.0,ROTATION PLAYER
+Vasilije Micic,vasilije-micic-1,,PG,21.052704,1,-0.1,0.3,0.6,0.6,0.7,2.0,MARGINAL PROSPECT
+Quinton Rose,rosequ01,,SF,23.017111,1,0.1,0.3,0.5,0.6,0.6,2.0,MARGINAL PROSPECT
+Yuta Watanabe,watanyu01,Raptors,SF,26.305271,,0.3,0.4,0.5,0.4,0.4,2.0,ROTATION PLAYER
+Michael Kidd-Gilchrist,kiddgmi01,Knicks,SF,27.35113,,0.6,0.5,0.3,0.3,0.2,2.0,ROTATION PLAYER
+Javonte Green,greenja02,Celtics,SF,27.529089,,0.6,0.5,0.4,0.4,0.2,2.0,ROTATION PLAYER
+Derrick Rose,rosede01,Pistons,PG,32.328541,,0.8,0.5,0.4,0.2,0.2,2.0,OFFENSIVE SPECIALIST
+Jordan Bell,belljo01,,C,26.069815,,0.5,0.5,0.4,0.3,0.3,2.0,ROTATION PLAYER
+Quentin Grimes,quentin-grimes-1,,SG,19.734428,1,0.0,0.2,0.5,0.7,0.7,2.0,MARGINAL PROSPECT
+Edmond Sumner,sumneed01,Pacers,SG,25.089664,,0.3,0.4,0.5,0.4,0.4,2.0,SCRUB
+Jake Layman,laymaja01,Timberwolves,SF,26.907597,,0.5,0.5,0.4,0.3,0.3,2.0,SCRUB
+Jalen Harris,harrija01,Raptors,SG,22.46954,1,-0.1,0.3,0.5,0.6,0.7,1.9,MARGINAL PROSPECT
+Jahlil Okafor,okafoja01,Pistons,C,25.133471,,0.3,0.5,0.5,0.3,0.3,1.9,SCRUB
+Naz Mitrou-Long,mitrona01,Pacers,SG,27.498974,,0.5,0.5,0.3,0.5,0.2,1.9,<SHRUGGIE>
+James Ennis III,ennisja01,Magic,SF,30.590008,,0.9,0.5,0.3,0.2,0.1,1.9,ROTATION PLAYER
+Naji Marshall,marshna01,Pelicans,SF,23.022587,1,0.0,0.3,0.4,0.5,0.6,1.9,MARGINAL PROSPECT
+Jarred Vanderbilt,vandeja01,Timberwolves,PF,21.83436,,0.1,0.2,0.6,0.5,0.6,1.9,PROJECT
+Juwan Morgan,morgaju01,Jazz,PF,23.794661,,0.2,0.4,0.4,0.5,0.3,1.9,PROJECT
+Ahmad Caver,ahmad-caver-1,Grizzlies,PG,23.388775,1,0.2,0.4,0.4,0.3,0.5,1.9,MARGINAL PROSPECT
+Wesley Matthews,matthwe02,Lakers,SF,34.302532,,1.1,0.5,0.2,0.0,0.0,1.9,ROTATION PLAYER
+Ron Baker,bakerro01,,SG,27.843943,,0.4,0.3,0.4,0.6,0.2,1.8,<SHRUGGIE>
+Tyler Dorsey,dorsety01,,SG,24.966461,,0.3,0.3,0.4,0.4,0.3,1.8,PROJECT
+Quinndary Weatherspoon,weathqu01,Spurs,SG,24.394251,,0.1,0.1,0.3,0.7,0.5,1.8,PROJECT
+Damyean Dotson,dotsoda01,Cavaliers,SG,26.743326,,0.4,0.4,0.4,0.3,0.3,1.8,SCRUB
+Yoeli Childs,childyo01,Wizards,PF,23.052702,1,0.1,0.2,0.4,0.5,0.6,1.8,MARGINAL PROSPECT
+Jared Terrell,terreja01,,SG,25.976728,,0.1,0.2,0.5,0.7,0.3,1.8,SCRUB
+Kristian Doolittle,kristian-doolittle-2,,PF,23.288158,1,0.1,0.2,0.4,0.5,0.6,1.8,MARGINAL PROSPECT
+Lamine Diane,dianela01,,SF,23.236139,1,0.1,0.3,0.4,0.5,0.5,1.8,MARGINAL PROSPECT
+Gabe Vincent,vincega01,Heat,PG,24.635181,,0.2,0.2,0.3,0.6,0.5,1.8,PROJECT
+Malcolm Miller,millema01,,SF,27.909651,,0.4,0.4,0.3,0.4,0.2,1.7,ROTATION PLAYER
+Facundo Campazzo,campafa01,Nuggets,PG,22.864477,1,0.2,0.3,0.5,0.2,0.5,1.7,MARGINAL PROSPECT
+Tyler Lydon,lydonty01,,PF,24.81588,,0.1,0.2,0.6,0.4,0.4,1.7,PROJECT
+Rayshaun Hammonds,hammora01,Pacers,SF,22.228609,1,0.0,0.2,0.4,0.5,0.6,1.7,MARGINAL PROSPECT
+Jaylen Hoard,hoardja01,,PF,21.845312,,0.1,0.3,0.5,0.6,0.3,1.7,PROJECT
+Breein Tyree,breein-tyree-1,Heat,SG,23.052704,1,0.2,0.3,0.4,0.4,0.5,1.7,MARGINAL PROSPECT
+Kenyon Martin Jr.,martike04,Rockets,SF,20.071184,1,-0.1,0.1,0.4,0.6,0.7,1.7,MARGINAL PROSPECT
+Davon Reed,reedda01,,SG,25.645449,,0.3,0.3,0.4,0.4,0.3,1.7,ROTATION PLAYER
+Levi Randolph,randole01,Cavaliers,SF,23.33128,1,0.1,0.3,0.4,0.4,0.5,1.7,MARGINAL PROSPECT
+Matt Mooney,moonema01,Cavaliers,SG,22.983572,1,0.1,0.3,0.4,0.4,0.5,1.7,MARGINAL PROSPECT
+Vlatko Cancar,cancavl01,Nuggets,SF,20.813826,1,-0.1,0.1,0.5,0.6,0.6,1.7,MARGINAL PROSPECT
+Malachi Richardson,richama01,,SG,25.075975,,0.3,0.4,0.4,0.3,0.3,1.6,ROTATION PLAYER
+Rayjon Tucker,tuckera01,Clippers,SF,23.356606,,0.3,0.4,0.4,0.3,0.3,1.6,PROJECT
+Melvin Frazier Jr.,frazime01,,SF,24.424366,,0.1,0.3,0.5,0.5,0.3,1.6,PROJECT
+Kris Wilkes,wilkekr01,,SF,21.371662,1,0.0,0.2,0.4,0.5,0.4,1.6,MARGINAL PROSPECT
+Jalen Lecque,lecquja01,Pacers,PG,19.637918,1,-0.2,0.1,0.4,0.4,0.8,1.6,MARGINAL PROSPECT
+Xavier Rathan-Mayes,rathaxa01,,SG,26.762491,,0.0,0.3,0.4,0.5,0.4,1.6,SCRUB
+Garrett Temple,templga01,Bulls,SG,34.73785,,1.0,0.4,0.2,0.0,0.0,1.5,ROTATION PLAYER
+Lou Williams,willilo02,Clippers,SG,34.266941,,1.1,0.3,0.2,0.0,0.0,1.5,ROTATION PLAYER
+Patrick McCaw,mccawpa01,Raptors,SG,25.2731,,0.2,0.3,0.4,0.3,0.3,1.5,SCRUB
+Trevor Ariza,arizatr01,Thunder,SF,35.59206,,1.0,0.4,0.1,0.0,0.0,1.5,SCRAPPY VETERAN
+Xavier Sneed,sneedxa01,Hornets,SF,23.115675,1,0.1,0.2,0.4,0.4,0.5,1.5,MARGINAL PROSPECT
+Georgios Papagiannis,papagge01,,C,23.583847,,0.1,0.2,0.2,0.4,0.6,1.5,DEFENSIVE SPECIALIST
+Charles Matthews,matthch01,Cavaliers,SF,23.211498,1,0.1,0.3,0.4,0.4,0.3,1.5,MARGINAL PROSPECT
+Matthew Dellavedova,dellama01,Cavaliers,PG,30.401094,,0.7,0.3,0.3,0.1,0.1,1.5,ROTATION PLAYER
+Brandon Sampson,sampsbr01,,SG,23.75633,,0.1,0.3,0.3,0.4,0.3,1.5,PROJECT
+Marko Guduric,gudurma01,,SF,25.905544,,0.2,0.3,0.4,0.3,0.3,1.5,SCRUB
+Malik Fitts,fittsma01,,PF,23.581108,1,0.0,0.2,0.3,0.4,0.5,1.5,MARGINAL PROSPECT
+Julian Washburn,washbju01,,SF,29.125257,,0.3,0.4,0.4,0.3,0.1,1.5,ROTATION PLAYER
+Devin Cannady,cannade01,Magic,PG,23.70089,1,0.2,0.3,0.4,0.3,0.4,1.4,MARGINAL PROSPECT
+Zavier Simpson,simpsza01,,PG,23.972622,1,0.2,0.3,0.4,0.2,0.4,1.4,MARGINAL PROSPECT
+Harrison Barnes,barneha02,Kings,PF,28.676249,,0.8,0.5,0.2,0.0,-0.1,1.4,DUBIOUS STARTER
+Tyrone Wallace,wallaty01,,SG,26.647501,,0.2,0.3,0.3,0.3,0.3,1.4,SCRUB
+Nathan Knight,knighna01,Hawks,PF,23.367556,1,0.0,0.2,0.3,0.4,0.5,1.4,MARGINAL PROSPECT
+Kevon Harris,kevon-harris-1,,SG,23.608488,1,0.1,0.2,0.4,0.4,0.4,1.4,MARGINAL PROSPECT
+Dewayne Dedmon,dedmode01,,C,31.474333,,0.7,0.6,0.1,0.1,0.0,1.4,ROTATION PLAYER
+Joe Young,youngjo01,,PG,28.599588,,0.3,0.3,0.3,0.3,0.2,1.4,ROTATION PLAYER
+Iman Shumpert,shumpim01,,SG,30.603697,,0.8,0.3,0.2,0.1,0.0,1.4,ROTATION PLAYER
+Anthony Lamb,lamban01,,SF,23.033537,1,0.0,0.2,0.3,0.4,0.5,1.4,MARGINAL PROSPECT
+Thomas Welsh,welshth01,,C,22.996578,1,0.0,0.1,0.4,0.4,0.5,1.4,MARGINAL PROSPECT
+Grant Riller,rillegr01,Hornets,SG,23.980835,1,0.0,0.2,0.4,0.4,0.4,1.4,MARGINAL PROSPECT
+Isaiah Canaan,canaais01,,PG,29.702944,,0.5,0.4,0.2,0.2,0.0,1.3,ROTATION PLAYER
+Jabari Bird,birdja01,,SG,26.584532,,0.3,0.2,0.2,0.3,0.3,1.3,ROTATION PLAYER
+Ignas Brazdeikis,brazdig01,Knicks,PF,23.065023,1,0.0,0.2,0.3,0.4,0.3,1.3,MARGINAL PROSPECT
+Bruno Fernando,fernabr01,Hawks,C,22.466805,,0.1,0.3,0.3,0.4,0.3,1.3,PROJECT
+Ade Murkey,murkead01,Timberwolves,SG,23.008898,1,0.1,0.2,0.3,0.3,0.4,1.3,MARGINAL PROSPECT
+Tim Frazier,fraziti01,,PG,30.253252,,0.6,0.3,0.3,0.1,0.1,1.3,ROTATION PLAYER
+Jordan McRae,mcraejo01,,SG,29.850786,,0.4,0.4,0.3,0.2,0.1,1.3,SCRUB
+Gary Clark,clarkga01,Magic,PF,26.212183,,0.4,0.3,0.3,0.1,0.1,1.3,SCRUB
+BJ Johnson,johnsbj01,Heat,SF,25.117043,,0.2,0.3,0.3,0.3,0.2,1.3,SCRUB
+Troy Williams,willitr02,,SF,26.091719,,0.3,0.3,0.3,0.2,0.2,1.3,SCRUB
+Treveon Graham,grahatr01,Bucks,SG,27.263517,,0.2,0.3,0.2,0.3,0.2,1.3,SCRUB
+Jaden McDaniels,mcdanja02,Timberwolves,PF,20.34223,1,-0.5,-0.1,0.3,0.6,0.9,1.2,MARGINAL PROSPECT
+Bryn Forbes,forbebr01,Bucks,SG,27.529089,,0.3,0.3,0.3,0.3,0.2,1.2,SCRUB
+Jaron Blossomgame,blossja01,,SF,27.378508,,0.3,0.3,0.2,0.3,0.1,1.2,SCRUB
+Sam Dekker,dekkesa01,,PF,26.743326,,0.3,0.3,0.2,0.2,0.2,1.2,SCRUB
+Jae'Sean Tate,tateja01,Rockets,PF,23.264887,1,0.1,0.2,0.3,0.3,0.4,1.2,MARGINAL PROSPECT
+Justin Wright-Foreman,wrighju02,,PG,24.264202,1,0.1,0.3,0.3,0.4,0.2,1.2,MARGINAL PROSPECT
+Charlie Brown Jr.,brownch02,Timberwolves,SG,22.997263,1,0.0,0.2,0.3,0.3,0.3,1.2,MARGINAL PROSPECT
+Austin Wiley,austin-wiley-1,,C,22.067076,1,0.0,0.1,0.3,0.3,0.5,1.2,MARGINAL PROSPECT
+Doug McDermott,mcderdo01,Pacers,SF,29.081451,,0.4,0.4,0.2,0.1,0.1,1.2,SCRUB
+Jahlil Tripp,trippja01,,SF,23.362082,1,0.1,0.2,0.3,0.3,0.3,1.2,MARGINAL PROSPECT
+Deyonta Davis,davisde01,,C,24.167009,,0.1,0.2,0.4,0.3,0.2,1.2,DEFENSIVE SPECIALIST
+Tony Snell,snellto01,Hawks,SG,29.229296,,0.4,0.5,0.2,0.1,0.1,1.2,SCRUB
+Brice Johnson,johnsbr02,,PF,26.600958,,0.2,0.2,0.1,0.2,0.4,1.2,ROTATION PLAYER
+E'Twaun Moore,mooreet01,Suns,SG,31.934292,,0.6,0.3,0.2,0.1,0.0,1.2,SCRUB
+Nenad Dimitrijevic,nenad-dimitrijevic-1,,PG,22.940453,1,0.1,0.2,0.3,0.2,0.3,1.2,MARGINAL PROSPECT
+Myke Henry,henrymy01,,SF,28.109514,,0.3,0.3,0.3,0.3,0.1,1.2,SCRUB
+Marko Simonovic,simonma01,,C,21.30048,1,-0.3,0.2,0.2,0.7,0.3,1.2,MARGINAL PROSPECT
+Trevon Bluiett,bluietr01,Jazz,SG,24.245037,1,0.0,0.1,0.3,0.3,0.4,1.1,MARGINAL PROSPECT
+Marcus Georges-Hunt,georgma01,,SG,26.850103,,0.2,0.2,0.2,0.3,0.3,1.1,SCRUB
+Andre Iguodala,iguodan01,Heat,SF,37.013004,,0.8,0.2,0.1,0.1,0.0,1.1,SCRAPPY VETERAN
+Nigel Hayes,hayesni01,,SF,26.130049,,0.1,0.4,0.3,0.2,0.2,1.1,SCRUB
+Josh Magette,magetjo01,,PG,31.178644,,0.5,0.4,0.2,0.0,0.0,1.1,<SHRUGGIE>
+Tyler Zeller,zellety01,Spurs,C,31.041752,,0.6,0.2,0.2,0.1,0.1,1.1,<SHRUGGIE>
+Georges Niang,niangge01,Jazz,PF,27.627653,,0.3,0.3,0.2,0.3,0.1,1.1,SCRUB
+Ian Mahinmi,mahinia01,,C,34.242298,,0.6,0.3,0.2,0.0,0.0,1.1,ROTATION PLAYER
+Aron Baynes,baynear01,Raptors,C,34.149212,,0.7,0.3,0.1,0.0,0.0,1.1,ROTATION PLAYER
+Deng Adel,adelde01,,SF,24,,0.0,0.3,0.3,0.4,0.1,1.1,PROJECT
+Jordan Bowden,bowdejo01,,SG,24.032854,1,0.0,0.2,0.3,0.3,0.3,1.1,MARGINAL PROSPECT
+Milton Doyle,doylemi01,,SG,27.255304,,0.1,0.2,0.2,0.3,0.3,1.1,SCRUB
+Glenn Robinson III,robingl02,Kings,SF,27.066393,,0.2,0.2,0.2,0.2,0.1,1.1,SCRUB
+Jalen Jones,jonesja04,,SF,27.685146,,0.3,0.2,0.2,0.2,0.1,1.1,SCRUB
+Nick Richards,richani01,Hornets,C,23.175905,1,-0.1,0.1,0.3,0.3,0.4,1.0,MARGINAL PROSPECT
+Dwayne Sutton,suttodw01,Warriors,SF,23.931553,1,0.0,0.1,0.3,0.3,0.3,1.0,MARGINAL PROSPECT
+Caleb Homesley,homesca01,Wizards,SG,24.180698,1,0.0,0.2,0.3,0.3,0.3,1.0,MARGINAL PROSPECT
+Vic Law,lawvi01,,SF,24.122519,1,0.0,0.1,0.3,0.3,0.4,1.0,MARGINAL PROSPECT
+Norvel Pelle,pelleno01,,C,27.994524,,0.1,0.3,0.3,0.2,0.1,1.0,SCRUB
+Brandon Jennings,jennibr01,,PG,31.359343,,0.5,0.3,0.1,0.1,0.0,1.0,ROTATION PLAYER
+Karim Mane,maneka01,Magic,PG,20.714579,1,-0.2,0.1,0.3,0.3,0.4,1.0,MARGINAL PROSPECT
+Tyler Cook,cookty01,Timberwolves,PF,22.414101,1,0.0,0.1,0.3,0.3,0.3,1.0,MARGINAL PROSPECT
+Tyler Johnson,johnsty01,Nets,PG,28.73922,,0.3,0.3,0.2,0.1,0.1,1.0,SCRUB
+Admiral Schofield,schofad01,Thunder,SF,23.843943,,0.0,0.3,0.3,0.3,0.2,1.0,PROJECT
+Harry Giles III,gilesha01,Trail Blazers,C,22.781656,,0.0,0.1,0.2,0.3,0.3,1.0,PROJECT
+Antonius Cleveland,clevean01,,SG,26.997946,,0.2,0.2,0.1,0.3,0.3,1.0,SCRUB
+Lorenzo Brown,brownlo01,,PG,30.436687,,0.4,0.2,0.3,0.0,0.0,1.0,ROTATION PLAYER
+Lamar Stevens,stevela01,Cavaliers,PF,23.567419,1,-0.1,0.1,0.3,0.3,0.4,1.0,MARGINAL PROSPECT
+Omri Casspi,casspom01,,SF,32.613277,,0.5,0.2,0.2,0.1,0.1,1.0,ROTATION PLAYER
+Malik Monk,monkma01,Hornets,SG,22.992472,,-0.3,0.1,0.3,0.4,0.5,1.0,PROJECT
+Chris Silva,silvach01,Heat,PF,24.36961,,0.1,0.1,0.3,0.1,0.2,0.9,PROJECT
+Shabazz Muhammad,muhamsh01,,SF,28.219028,,0.3,0.2,0.2,0.2,0.0,0.9,ROTATION PLAYER
+Paul Zipser,zipsepa01,,SF,26.954142,,0.2,0.2,0.1,0.2,0.2,0.9,SCRUB
+Devontae Cacok,cacokde01,Lakers,PF,23.317591,1,0.0,0.1,0.2,0.2,0.3,0.9,MARGINAL PROSPECT
+Wayne Ellington,ellinwa01,Pistons,SG,33.177277,,0.5,0.2,0.1,0.1,0.0,0.9,SCRUB
+KZ Okpala,okpalkz01,Heat,SF,22.763859,1,-0.1,0.1,0.2,0.4,0.3,0.9,MARGINAL PROSPECT
+Ike Anigbogu,anigbik01,Pelicans,C,19.28063,1,-0.2,-0.1,0.2,0.3,0.7,0.9,OK PROSPECT
+Frank Jackson,jacksfr01,Thunder,PG,22.748802,,-0.1,0.1,0.2,0.3,0.4,0.9,PROJECT
+Brandon Paul,paulbr01,,SG,29.760439,,0.2,0.2,0.2,0.2,0.0,0.9,ROTATION PLAYER
+Josh Gray,grayjo01,,PG,27.397673,,0.4,0.1,0.1,0.2,0.1,0.9,<SHRUGGIE>
+Mario Hezonja,hezonma01,,SF,25.935661,,0.1,0.2,0.2,0.2,0.2,0.9,SCRUB
+MarShon Brooks,brookma01,,SG,32.016426,,0.5,0.2,0.1,0.1,0.0,0.8,ROTATION PLAYER
+Kyle Collinsworth,colliky01,,SF,29.333334,,0.2,0.2,0.2,0.1,0.0,0.8,SCRUB
+Mike James,jamesmi02,,PG,30.45859,,0.3,0.2,0.2,0.1,0.1,0.8,ROTATION PLAYER
+Semi Ojeleye,ojelese01,Celtics,PF,26.160164,,0.2,0.2,0.2,0.1,0.2,0.8,SCRUB
+LiAngelo Ball,ballli01,,SG,20.190281,1,-0.1,0.0,0.3,0.3,0.4,0.8,MARGINAL PROSPECT
+Jamil Wilson,wilsoja02,,SF,30.198494,,0.3,0.1,0.2,0.1,0.2,0.8,SCRUB
+Eric Gordon,gordoer01,Rockets,SG,32.104038,,0.5,0.2,0.0,0.0,0.0,0.8,SCRUB
+Nik Stauskas,stausni01,Bucks,SG,27.321012,,0.2,0.2,0.2,0.2,0.1,0.8,SCRUB
+Jay Scrubb,scrubja01,Clippers,SG,20.418892,1,-0.1,0.0,0.3,0.3,0.3,0.8,MARGINAL PROSPECT
+Max Strus,strusma01,Heat,SG,23.90349,1,0.0,0.2,0.2,0.2,0.2,0.8,MARGINAL PROSPECT
+Rodney Purvis,purviro01,,SG,26.965092,,0.1,0.1,0.2,0.2,0.2,0.8,SCRUB
+Solomon Hill,hillso01,Hawks,SF,29.878166,,0.3,0.3,0.1,0.1,0.0,0.8,SCRUB
+Jonah Bolden,boldejo01,,PF,25.084188,,0.1,0.2,0.3,0.2,0.1,0.8,SCRUB
+Josh Hall,halljo01,,PF,20.317591,1,-0.3,-0.2,0.1,0.3,0.8,0.8,MARGINAL PROSPECT
+Anthony Gill,gillan01,Wizards,PF,24.29295,1,0.0,0.1,0.2,0.2,0.3,0.8,MARGINAL PROSPECT
+Kyle Korver,korveky01,,SF,39.879536,,0.7,0.1,0.0,-0.1,0.0,0.8,SCRAPPY VETERAN
+Paul Eboua,ebouapa01,Heat,SF,20.963724,1,-0.1,0.0,0.2,0.3,0.3,0.7,MARGINAL PROSPECT
+Sean McDermott,mcderse01,Grizzlies,SF,24.246407,1,0.0,0.1,0.2,0.2,0.2,0.7,MARGINAL PROSPECT
+Kenny Wooten,wooteke01,Rockets,PF,21.795345,1,0.0,0.1,0.2,0.2,0.2,0.7,MARGINAL PROSPECT
+Darrun Hilliard,hillida01,,SG,27.805613,,0.2,0.2,0.1,0.2,0.0,0.7,ROTATION PLAYER
+Louis King,kinglo02,,SF,22.824093,1,-0.1,0.1,0.2,0.3,0.2,0.7,MARGINAL PROSPECT
+Mamadi Diakite,diakima01,Bucks,PF,24.030115,1,-0.1,0.1,0.2,0.2,0.3,0.7,MARGINAL PROSPECT
+Jeff Green,greenje02,Nets,PF,34.431213,,0.5,0.2,0.1,0.0,0.0,0.7,SCRUB
+Lucas Nogueira,noguelu01,,C,28.520191,,0.2,0.2,0.1,0.1,0.1,0.7,DEFENSIVE SPECIALIST
+Keandre Cook,cookke01,Hornets,SG,23.75633,1,0.0,0.1,0.2,0.1,0.2,0.7,MARGINAL PROSPECT
+Cassius Stanley,stanlca01,Pacers,SG,21.459274,1,-0.4,-0.1,0.2,0.4,0.6,0.7,MARGINAL PROSPECT
+Joakim Noah,noahjo01,,C,35.934292,,0.4,0.1,0.1,0.1,0.0,0.7,SCRAPPY VETERAN
+Bonzie Colson,colsobo01,,PF,25.05681,,0.0,0.1,0.2,0.2,0.1,0.7,SCRUB
+Keljin Blevins,blevike01,Trail Blazers,SF,24.190966,1,0.0,0.1,0.2,0.2,0.2,0.7,MARGINAL PROSPECT
+Jake Toolson,toolsja01,Jazz,SG,24.908966,1,0.0,0.1,0.2,0.1,0.2,0.6,MARGINAL PROSPECT
+Jarrod Uthoff,uthofja01,Pelicans,PF,23.70705,1,0.0,0.1,0.2,0.2,0.2,0.6,MARGINAL PROSPECT
+Yante Maten,matenya01,,PF,25.466803,1,0.3,-0.1,0.2,0.0,0.3,0.6,MARGINAL PROSPECT
+Ty Lawson,lawsoty01,,PG,33.248459,,0.4,0.1,0.1,0.0,0.0,0.6,ROTATION PLAYER
+Zylan Cheatham,cheatzy01,,PF,26.208076,1,0.1,0.2,0.1,0.2,0.1,0.6,MARGINAL PROSPECT
+Jamel Artis,artisja01,,SG,28.054756,,0.1,0.1,0.1,0.2,0.0,0.6,SCRUB
+Chris McCullough,mcculch01,,PF,25.990417,,0.1,0.2,0.1,0.1,0.1,0.6,SCRUB
+Ed Davis,davised01,Timberwolves,C,31.660507,,0.3,0.3,0.0,0.0,0.0,0.6,DEFENSIVE SPECIALIST
+Marlon Taylor,tayloma02,Wizards,SG,23.463381,1,0.0,0.1,0.2,0.1,0.1,0.6,MARGINAL PROSPECT
+D.J. Augustin,augusdj01,Bucks,PG,33.229294,,0.4,0.2,0.0,0.0,0.0,0.6,SCRUB
+Rajon Rondo,rondora01,Hawks,PG,34.943188,,0.4,0.0,0.1,0.1,0.1,0.6,SCRUB
+Luke Kornet,kornelu01,Bulls,PF,25.552361,,0.1,0.2,0.2,0.1,0.1,0.6,SCRUB
+Rodney McGruder,mcgruro01,Pistons,SG,29.514032,,0.1,0.2,0.1,0.1,0.0,0.6,SCRUB
+Omer Yurtseven,yurtsom01,,C,22.62286,1,-0.1,0.0,0.1,0.2,0.3,0.6,MARGINAL PROSPECT
+Marial Shayok,shayoma01,,SF,26.520191,1,0.0,0.2,0.2,0.2,0.1,0.6,MARGINAL PROSPECT
+Emmanuel Mudiay,mudiaem01,,PG,24.911705,,-0.1,0.1,0.2,0.2,0.2,0.6,PROJECT
+Julyan Stone,stoneju01,,SG,32.15332,,0.2,0.2,0.1,0.1,-0.1,0.6,<SHRUGGIE>
+CJ Miles,milescj01,,SF,33.878166,,0.3,0.1,0.0,0.0,0.0,0.6,SCRUB
+John Jenkins,jenkijo01,,SG,29.91102,,0.2,0.1,0.1,0.1,0.0,0.5,SCRUB
+Courtney Lee,leeco01,Mavericks,SG,35.331963,,0.4,0.1,0.0,0.0,0.0,0.5,SCRAPPY VETERAN
+Ray Spalding,spaldra01,,PF,23.895962,,0.0,0.1,0.1,0.2,0.1,0.5,PROJECT
+Justin Jackson,jacksju01,Thunder,SF,25.850786,,0.0,0.2,0.2,0.1,0.1,0.5,SCRUB
+Jeremy Lin,linje01,,PG,32.443531,,0.3,0.1,0.0,0.1,0.1,0.5,SCRUB
+Kenneth Faried,farieke01,,PF,31.203285,,0.3,0.2,0.1,0.0,0.0,0.5,SCRUB
+Javin DeLaurier,delauja01,Hornets,PF,22.822723,1,0.0,0.0,0.2,0.2,0.2,0.5,MARGINAL PROSPECT
+Vincent Poirier,poirivi01,76ers,C,27.293634,,0.1,0.2,0.1,0.1,0.1,0.5,DEFENSIVE SPECIALIST
+Meyers Leonard,leoname01,Heat,C,28.93087,,0.1,0.2,0.1,0.1,0.0,0.5,SCRUB
+Jacob Evans,evansja02,,SG,23.624914,,-0.3,0.1,0.2,0.3,0.2,0.5,PROJECT
+Kyle Alexander,alexaky01,,C,23.281998,1,0.0,0.0,0.2,0.1,0.2,0.5,MARGINAL PROSPECT
+Nene,hilarne01,,C,38.387405,,0.4,0.0,0.0,0.0,0.0,0.5,SCRAPPY VETERAN
+Kyle O'Quinn,oquinky01,,C,30.855577,,0.3,0.2,0.1,0.0,-0.1,0.5,SCRUB
+Dakari Johnson,johnsda04,,C,25.363449,,0.0,0.2,0.1,0.1,0.0,0.5,DEFENSIVE SPECIALIST
+Jack Cooley,cooleja01,,PF,29.831623,,0.1,0.2,0.2,0.1,0.0,0.5,SCRUB
+Brian Bowen,bowenbr02,Pacers,SF,21.335386,1,-0.1,0.0,0.2,0.2,0.2,0.5,MARGINAL PROSPECT
+Alec Peters,peteral01,,PF,25.806982,,0.1,0.2,0.1,0.1,0.0,0.5,SCRUB
+Raymond Felton,feltora01,,PG,36.602325,,0.3,0.1,0.0,0.0,0.0,0.5,SCRAPPY VETERAN
+E.J. Montgomery,montgej01,Bucks,PF,21.390829,1,-0.1,0.0,0.1,0.2,0.2,0.5,MARGINAL PROSPECT
+Greg Whittington,whittgr01,Nuggets,PF,22.956194,1,0.0,0.0,0.2,0.1,0.1,0.5,MARGINAL PROSPECT
+Simisola Shittu,shittsi01,Bulls,PF,20.235455,1,-0.4,-0.1,0.0,0.4,0.5,0.4,MARGINAL PROSPECT
+Robert Franks,frankro01,Magic,PF,23.121149,1,-0.1,0.1,0.1,0.2,0.1,0.4,MARGINAL PROSPECT
+Travis Wear,weartr01,,SF,30.365503,,0.2,0.0,0.1,0.1,0.0,0.4,SCRUB
+DeMarre Carroll,carrode01,,SF,34.518822,,0.3,0.1,0.0,0.0,0.0,0.4,SCRUB
+Devonte Patterson,pattede01,Mavericks,SF,25.059547,1,0.0,0.1,0.1,0.1,0.1,0.4,MARGINAL PROSPECT
+Emeka Okafor,okafoem01,,C,38.346336,,0.3,0.0,0.1,0.0,0.0,0.4,SCRAPPY VETERAN
+Jordan Mickey,mickejo01,,PF,26.568104,,0.1,0.1,0.1,0.1,0.1,0.4,SCRUB
+Jarrell Brantley,brantja01,Jazz,PF,24.654346,,-0.1,0.1,0.2,0.2,0.1,0.4,PROJECT
+Amida Brimah,brimaam01,Pacers,C,23.973307,1,0.0,0.0,0.1,0.1,0.2,0.4,MARGINAL PROSPECT
+Jared Dudley,dudleja01,Lakers,PF,35.564682,,0.3,0.1,0.0,0.0,0.0,0.4,SCRAPPY VETERAN
+Milos Teodosic,teodomi01,,PG,33.875427,,0.1,0.1,0.0,0.0,0.1,0.4,SCRUB
+Aleksa Radanov,aleksa-radanov-1,,SG,23.000685,1,-0.1,0.1,0.1,0.1,0.1,0.4,MARGINAL PROSPECT
+Nate Sestina,sestina01,,C,23.726215,1,0.0,0.0,0.1,0.1,0.1,0.4,MARGINAL PROSPECT
+Tariq Owens,owensta01,,PF,24.59343,1,0.0,0.0,0.1,0.1,0.2,0.4,MARGINAL PROSPECT
+Willy Hernangomez,hernawi01,Pelicans,C,26.685831,,0.0,0.1,0.1,0.1,0.1,0.4,SCRUB
+Mario Chalmers,chalmma01,,PG,34.707733,,0.2,0.0,0.0,0.1,0.0,0.3,SCRUB
+Troy Daniels,danietr01,,SF,29.552361,,0.1,0.1,0.0,0.1,0.0,0.3,SCRUB
+Wilson Chandler,chandwi01,,SF,33.733059,,0.3,0.1,0.0,0.0,0.0,0.3,SCRUB
+Michael Beasley,beaslmi01,,PF,32.062969,,0.2,0.1,0.0,0.0,0.0,0.3,SCRUB
+Devin Harris,harride01,,PG,37.930183,,0.2,0.1,0.0,0.0,0.0,0.3,WAY PAST HIS PRIME
+Chimezie Metu,metuch01,Kings,C,23.865845,,0.0,0.1,0.0,0.2,0.1,0.3,PROJECT
+Ramon Sessions,sessira01,,PG,34.811771,,0.1,0.0,0.0,0.1,0.0,0.3,SCRUB
+Ish Smith,smithis01,Wizards,PG,32.577686,,0.3,0.0,0.1,0.0,0.0,0.3,SCRUB
+Nick Young,youngni01,,SG,35.671459,,0.2,0.1,0.0,0.0,0.0,0.3,SCRAPPY VETERAN
+Brandon Knight,knighbr03,,PG,29.169062,,0.0,0.1,0.1,0.1,0.0,0.3,SCRUB
+C.J. Williams,willicj01,,SG,30.986996,,0.1,0.1,0.1,0.0,0.0,0.3,SCRUB
+JaMychal Green,greenja01,Nuggets,PF,30.617386,,0.2,0.1,0.1,0.0,-0.1,0.3,SCRUB
+Thabo Sefolosha,sefolth01,,SF,36.752911,,0.2,0.0,0.0,0.0,0.0,0.3,DEFENSIVE SPECIALIST
+J.J. Barea,bareajo01,,PG,36.602325,,0.3,0.0,-0.1,0.0,0.0,0.3,OFFENSIVE SPECIALIST
+Michael Frazier,frazimi01,,SG,26.90486,,-0.1,0.1,0.0,0.1,0.2,0.3,SCRUB
+William Howard,howarwi01,,SF,22.271732,1,-0.1,-0.1,0.1,0.1,0.3,0.3,MARGINAL PROSPECT
+Malcolm Delaney,delanma01,,PG,31.895962,,0.1,0.1,0.0,0.0,0.0,0.3,SCRUB
+James Nunnally,nunnaja01,,SF,30.554415,,0.1,0.1,0.1,0.0,0.0,0.3,SCRUB
+Gerald Green,greenge01,Rockets,SG,35.017113,,0.1,0.0,0.1,0.0,0.0,0.3,WAY PAST HIS PRIME
+Isaiah Hicks,hicksis01,,PF,26.527037,,0.1,0.1,0.1,0.0,0.0,0.2,SCRUB
+James Webb III,webbja01,,SF,27.455168,,0.2,0.1,0.0,0.0,0.0,0.2,SCRUB
+Dwight Buycks,buyckdw01,,PG,31.909651,,0.1,0.1,0.0,0.0,0.0,0.2,SCRUB
+Louis Olinde,louis-olinde-1,,SF,22.877481,1,-0.1,0.1,0.1,0.0,0.1,0.2,MARGINAL PROSPECT
+Axel Toupane,toupaax01,Warriors,SF,23.528406,1,0.0,0.1,0.1,0.0,0.1,0.2,MARGINAL PROSPECT
+Ante Zizic,zizican01,,C,24.07666,,-0.1,0.0,0.1,0.1,0.1,0.2,PROJECT
+Jameer Nelson,nelsoja01,,PG,38.978783,,0.2,0.0,0.0,0.0,0.0,0.2,SCRAPPY VETERAN
+Josh Huestis,huestjo01,,PF,29.122519,,0.1,0.1,0.0,0.0,-0.1,0.2,SCRUB
+Tyson Chandler,chandty01,,C,38.335388,,0.2,0.0,0.1,0.0,0.0,0.2,DEFENSIVE SPECIALIST
+Greg Monroe,monrogr01,,C,30.663929,,0.2,0.1,0.1,0.0,-0.1,0.2,SCRUB
+Shelvin Mack,macksh01,,PG,30.781656,,0.1,0.0,0.1,0.0,0.0,0.2,SCRUB
+Quincy Pondexter,pondequ01,,SF,32.898014,,0.2,0.0,0.1,0.0,0.0,0.2,SCRUB
+Amile Jefferson,jeffeam01,Celtics,PF,27.739904,,0.1,0.0,0.1,0.0,0.0,0.2,SCRUB
+Brodric Thomas,thomabr01,Rockets,SG,24.010952,1,0.0,0.1,0.1,0.0,0.0,0.2,MARGINAL PROSPECT
+Andrew White III,whitean01,,SF,27.63039,,0.0,0.0,0.1,0.1,0.0,0.2,SCRUB
+Luke Babbitt,babbilu01,,SF,31.619438,,0.1,0.1,0.0,0.0,0.0,0.2,SCRUB
+Quinn Cook,cookqu01,Lakers,SG,27.863108,,-0.1,0.0,0.1,0.1,0.0,0.1,SCRUB
+John Holland,hollajo02,,SF,32.238194,,0.1,0.1,0.0,0.0,0.0,0.1,SCRUB
+DeAndre Jordan,jordade01,Nets,C,32.533882,,0.7,0.0,-0.4,-0.1,-0.1,0.1,SCRUB
+Kylor Kelley,kylor-kelley-1,,C,23.436003,1,-0.1,0.0,0.1,0.0,0.1,0.1,MARGINAL PROSPECT
+Joe Johnson,johnsjo02,,SF,39.594799,,0.2,0.0,0.0,-0.1,0.0,0.1,SCRAPPY VETERAN
+Ivan Rabb,rabbiv01,,PF,23.991787,,-0.1,0.0,0.0,0.1,0.0,0.1,PROJECT
+Damian Jones,jonesda03,Suns,C,25.59343,,0.0,0.0,0.2,0.0,-0.1,0.1,SCRUB
+James Johnson,johnsja01,Mavericks,PF,33.949348,,0.1,0.0,0.0,-0.1,0.0,0.1,SCRUB
+Quincy Acy,acyqu01,,PF,30.324436,,0.1,0.0,0.0,0.0,0.0,0.1,SCRUB
+Andre Ingram,ingraan01,,SG,35.203285,,0.1,0.0,0.0,0.0,0.0,0.1,WAY PAST HIS PRIME
+Mike Scott,scottmi01,76ers,PF,32.547569,,0.2,0.0,0.0,0.0,0.0,0.1,SCRUB
+Deonte Burton,burtode02,,SG,27.003422,,-0.2,0.0,0.0,0.1,0.1,0.1,SCRUB
+Ekpe Udoh,udohek01,,C,33.705681,,0.1,0.0,0.0,0.0,0.0,0.1,DEFENSIVE SPECIALIST
+Dairis Bertans,bertada02,,SG,31.397673,,0.0,0.1,0.0,0.0,0.0,0.1,SCRUB
+Keita Bates-Diop,bateske01,Spurs,PF,25.026693,,-0.2,0.0,0.1,0.1,0.1,0.1,SCRUB
+DeAndre Liggins,liggide01,,SG,32.840519,,0.1,0.0,0.0,0.0,0.0,0.1,SCRUB
+Trevon Scott,tre-scott-1,Jazz,SF,24.1861739,1,-0.1,0.0,0.1,0.0,0.1,0.1,MARGINAL PROSPECT
+Jarrett Jack,jackja01,,PG,37.264889,,0.0,0.0,0.0,0.0,0.0,0.0,WAY PAST HIS PRIME
+Jamal Crawford,crawfja01,,SG,40.870636,,0.2,0.1,-0.2,0.0,0.0,0.0,SCRAPPY VETERAN
+Borisa Simanic,borisa-simanic-1,,PF,22.872005,1,0.0,0.0,0.0,0.0,0.1,0.0,MARGINAL PROSPECT
+Wesley Johnson,johnswe01,,SF,33.563313,,0.1,0.0,0.0,0.0,0.0,0.0,SCRUB
+George King,kingge03,,SF,28.045858,1,0.0,-0.1,0.0,-0.1,0.1,0.0,MARGINAL PROSPECT
+Kelan Martin,martike03,Pacers,SF,25.500341,,-0.1,0.0,0.1,0.0,0.0,0.0,SCRUB
+Marques Bolden,boldema01,Cavaliers,C,21.795345,1,-0.1,0.0,0.1,0.0,0.1,0.0,MARGINAL PROSPECT
+D.J. Wilson,wilsodj01,Bucks,PF,24.952772,,-0.2,0.0,0.1,0.1,0.1,0.0,PROJECT
+Will Magnay,magnawi01,Pelicans,C,20.647501,1,-0.1,-0.1,0.1,0.1,0.1,0.0,MARGINAL PROSPECT
+Malik Newman,newmama01,,SG,25.943872,1,,0.0,0.0,0.0,0.0,0.0,MARGINAL PROSPECT
+Kevin Hervey,herveke01,,SF,26.565365,1,,0.0,0.0,0.0,0.0,0.0,MARGINAL PROSPECT
+Alan Williams,willial03,,PF,28.010952,,-0.1,0.0,-0.1,0.2,0.0,0.0,SCRUB
+Alfonzo McKinnie,mckinal01,Lakers,SF,28.375086,,-0.1,0.0,0.1,0.0,0.0,0.0,SCRUB
+Bobby Brown,brownbo02,,PG,36.355919,,0.0,0.0,0.0,0.0,0.0,0.0,WAY PAST HIS PRIME
+Gytis Masiulis,gytis-masiulis-1,,C,22.81451,1,-0.1,0.0,0.0,0.0,0.0,0.0,MARGINAL PROSPECT
+Willie Reed,reedwi02,,PF,30.715948,,0.0,0.1,0.0,-0.1,-0.1,0.0,SCRUB
+Jodie Meeks,meeksjo01,,SG,33.451061,,0.0,0.0,0.0,0.0,0.0,0.0,SCRUB
+Zhou Qi,qizh01,,C,25.045858,,-0.1,0.0,0.1,0.0,0.0,0.0,SCRUB
+Jarell Martin,martija01,,PF,26.694046,,-0.1,0.0,0.0,0.0,0.0,0.0,SCRUB
+Patrick Patterson,pattepa01,Clippers,PF,31.887749,,0.0,0.0,0.0,0.0,0.0,0.0,SCRUB
+Brandan Wright,wrighbr03,,PF,33.327858,,0.1,0.0,0.0,0.0,0.0,0.0,SCRUB
+Luc Mbah a Moute,mbahalu01,,PF,34.398357,,0.0,0.1,0.0,0.0,0.0,-0.1,SCRUB
+Dewan Hernandez,hernade01,,C,25.14579,1,-0.1,0.0,0.0,0.1,0.0,-0.1,MARGINAL PROSPECT
+Bennie Boatwright,bennie-boatwright-1,Grizzlies,PF,23.5557837,1,0.0,0.0,0.0,0.0,0.0,-0.1,MARGINAL PROSPECT
+Jerryd Bayless,bayleje01,,SG,32.451744,,0.0,0.0,-0.1,0.0,0.0,-0.1,SCRUB
+Jonas Jerebko,jerebjo01,,PF,33.92197,,0.1,0.0,0.0,-0.1,0.0,-0.1,SCRUB
+Arron Afflalo,afflaar01,,SG,35.29911,,0.0,0.0,0.0,0.0,0.0,-0.1,WAY PAST HIS PRIME
+Darrell Arthur,arthuda01,,PF,32.856949,,0.0,0.0,-0.1,0.0,0.0,-0.1,SCRUB
+Sean Kilpatrick,kilpase01,,SG,31.071869,,-0.1,0.0,0.0,0.0,0.0,-0.1,SCRUB
+Ryan Anderson,anderry01,,PF,32.741959,,0.0,0.0,-0.1,0.0,0.0,-0.1,SCRUB
+MiKyle McIntosh,mcintmi01,,PF,24.539356,1,-0.3,-0.2,0.0,-0.1,0.4,-0.1,MARGINAL PROSPECT
+Moses Brown,brownmo01,Thunder,C,20.305954,1,-0.2,-0.1,0.0,-0.1,0.2,-0.1,MARGINAL PROSPECT
+Omari Johnson,johnsom01,,PF,31.18412,,-0.1,0.0,0.0,0.0,0.0,-0.2,SCRUB
+Tony Allen,allento01,,SF,39.058178,,0.1,-0.1,0.0,0.0,-0.1,-0.2,WAY PAST HIS PRIME
+Romaro Gill,gillro01,Jazz,C,26.335386,1,0.0,-0.1,0.1,-0.1,-0.1,-0.2,MARGINAL PROSPECT
+Tarik Black,blackta01,,C,29.196442,,-0.1,0.0,0.0,0.0,-0.1,-0.2,SCRUB
+Allen Crabbe,crabbal01,,SG,28.81588,,-0.1,0.0,0.0,0.0,0.0,-0.2,SCRUB
+Okaro White,whiteok01,,PF,28.470911,,-0.1,-0.1,0.1,-0.1,0.0,-0.2,SCRUB
+Allonzo Trier,trieral01,,SG,25.043121,,-0.3,-0.1,0.0,0.0,0.0,-0.2,SCRUB
+Johnny O'Bryant III,obryajo01,,PF,27.671457,,-0.1,-0.1,0.0,0.0,-0.1,-0.2,SCRUB
+Darius Miller,milleda01,Thunder,SF,30.869268,,-0.2,-0.1,0.0,0.0,0.0,-0.2,SCRUB
+Kosta Koufos,koufoko01,,C,31.937029,,0.0,0.0,-0.1,-0.1,0.0,-0.2,SCRUB
+Eric Moreland,moreler01,,PF,29.108829,,-0.1,-0.1,0.0,0.0,-0.1,-0.3,SCRUB
+Salah Mejri,mejrisa01,,C,34.633812,,-0.2,0.0,-0.1,-0.1,-0.1,-0.3,SCRUB
+Alex Poythress,poythal01,,PF,27.405886,,-0.2,0.0,-0.1,0.0,0.0,-0.3,SCRUB
+Amir Johnson,johnsam01,,C,33.757702,,0.0,-0.1,-0.1,-0.1,-0.1,-0.3,SCRUB
+Lance Stephenson,stephla01,,SG,30.409309,,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,SCRUB
+Tacko Fall,fallta01,Celtics,C,24.14716,1,-0.1,-0.1,0.0,-0.1,0.0,-0.3,MARGINAL PROSPECT
+Ian Clark,clarkia01,,SG,29.908281,,-0.2,-0.1,0.0,0.0,-0.1,-0.4,SCRUB
+Jonathon Simmons,simmojo02,,SG,31.383984,,-0.2,0.0,-0.1,-0.1,0.0,-0.4,SCRUB
+Chandler Parsons,parsoch01,,SF,32.271046,,-0.2,-0.1,-0.1,0.0,0.0,-0.4,SCRUB
+Sacha Killeya-Jones,sacha-killeya-jones-1,,PF,22.480492,1,-0.2,-0.1,-0.1,-0.1,0.1,-0.4,MARGINAL PROSPECT
+Abdoulaye N'Doye,abdoulaye-ndoye-1,,PG,22.902121,1,-0.2,-0.1,0.0,-0.1,0.0,-0.4,MARGINAL PROSPECT
+Anthony Tolliver,tollian01,,PF,35.671459,,-0.1,-0.1,-0.1,0.0,0.0,-0.4,WAY PAST HIS PRIME
+Miles Plumlee,plumlmi01,,C,32.418892,,-0.1,-0.1,-0.1,-0.1,0.0,-0.4,SCRUB
+Pau Gasol,gasolpa01,,C,40.574947,,-0.1,0.0,-0.2,0.0,0.0,-0.4,DEFENSIVE SPECIALIST
+Eric Paschall,pascher01,Warriors,PF,24.24367,,-0.5,-0.1,0.0,0.2,0.1,-0.4,PROJECT
+Taj Gibson,gibsota01,,PF,35.608486,,-0.1,-0.1,-0.1,-0.1,0.0,-0.4,WAY PAST HIS PRIME
+Omer Asik,asikom01,,C,34.581795,,-0.2,-0.1,-0.1,0.0,0.0,-0.4,SCRUB
+Tyler Cavanaugh,cavanty01,,PF,26.978781,,-0.1,-0.1,-0.1,-0.1,-0.1,-0.4,SCRUB
+Dwayne Bacon,bacondw01,Magic,SG,25.42642,,-0.4,-0.1,0.0,0.0,0.0,-0.4,SCRUB
+Joffrey Lauvergne,lauvejo01,,C,29.341547,,-0.1,-0.1,0.0,0.0,-0.2,-0.5,SCRUB
+Omari Spellman,spellom01,Knicks,PF,23.534565,,-0.4,-0.1,0.0,0.1,0.0,-0.5,PROJECT
+Abdel Nader,naderab01,Suns,SF,27.353867,,-0.3,-0.1,-0.1,0.0,0.0,-0.5,SCRUB
+JR Smith,smithjr01,,SG,35.397675,,-0.3,-0.1,0.0,0.0,0.0,-0.5,WAY PAST HIS PRIME
+Marreese Speights,speigma01,,C,33.497604,,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,SCRUB
+Jason Smith,smithja02,,C,34.921288,,-0.2,-0.1,-0.1,0.0,0.0,-0.5,SCRUB
+Donta Hall,halldo01,,C,23.488022,,-0.1,0.0,-0.1,-0.1,-0.2,-0.5,PROJECT
+Jeff Teague,teaguje01,Celtics,PG,32.646133,,-0.2,-0.2,-0.1,0.0,0.0,-0.5,SCRUB
+Drew Eubanks,eubandr01,Spurs,PF,24,,-0.2,-0.2,-0.1,0.0,-0.1,-0.5,PROJECT
+Marco Belinelli,belinma01,,SG,34.858315,,-0.2,-0.2,-0.1,-0.1,-0.1,-0.6,SCRUB
+Bobby Portis,portibo01,Bucks,PF,25.976728,,-0.3,-0.1,-0.1,-0.1,-0.1,-0.6,SCRUB
+Nate Darling,darlina01,Hornets,SG,22.425735,1,-0.3,-0.2,-0.1,0.0,0.0,-0.6,MARGINAL PROSPECT
+Dante Cunningham,cunnida01,,PF,33.782341,,-0.2,-0.1,-0.1,-0.1,-0.1,-0.6,SCRUB
+Antonio Blakeney,blakean01,,SG,24.328543,,-0.3,-0.1,-0.1,0.0,-0.1,-0.7,PROJECT
+Lance Thomas,thomala01,,PF,32.774811,,-0.5,-0.1,-0.1,-0.1,0.0,-0.8,SCRUB
+Brandon McCoy,mccoybr01,,C,20.643394,1,-0.5,-0.3,-0.1,-0.3,0.3,-0.9,MARGINAL PROSPECT
+Timofey Mozgov,mozgoti01,,C,34.548939,,-0.3,-0.2,-0.2,-0.1,-0.1,-0.9,SCRUB
+Markieff Morris,morrima02,Lakers,PF,31.416838,,-0.3,-0.2,-0.2,-0.2,-0.1,-0.9,SCRUB
+Caleb Swanigan,swanica01,,PF,23.791924,,-0.3,-0.2,-0.1,-0.1,-0.2,-0.9,PROJECT
+Udonis Haslem,hasleud01,Heat,PF,40.648872,,-0.3,-0.2,-0.4,-0.1,0.0,-1.0,WAY PAST HIS PRIME
+Kostas Antetokounmpo,antetko01,Lakers,SF,23.714579,1,-0.5,-0.2,-0.2,-0.2,0.2,-1.0,MARGINAL PROSPECT
+Johnathan Williams,willijo04,,C,25.700205,,-0.3,-0.2,-0.2,-0.2,-0.1,-1.0,SCRUB
+Isaiah Thomas,thomais02,,PG,31.983572,,-0.6,-0.2,-0.1,-0.1,0.0,-1.0,SCRUB
+Wayne Selden,seldewa01,,SG,26.340862,,-0.5,-0.3,-0.2,-0.1,-0.1,-1.1,SCRUB
+Damien Wilkins,wilkida02,,SF,41.059547,,-0.1,-0.4,-0.7,0.0,0.0,-1.1,WAY PAST HIS PRIME
+Robin Lopez,lopezro01,Wizards,C,32.837784,,-0.4,-0.3,-0.2,-0.1,-0.1,-1.2,SCRUB
+Kahlil Whitney,whitnka01,,SF,20.065708,1,-0.5,-0.4,-0.2,-0.2,-0.1,-1.3,MARGINAL PROSPECT
+Carmelo Anthony,anthoca01,Trail Blazers,PF,36.678986,,-0.6,-0.4,-0.3,-0.1,-0.1,-1.5,WAY PAST HIS PRIME
+Isaac Haas,haasis01,,C,23.334702,1,-0.6,-0.4,-0.2,-0.4,0.1,-1.6,MARGINAL PROSPECT
+Bismack Biyombo,biyombi01,Hornets,C,28.429842,,-0.5,-0.4,-0.3,-0.3,-0.2,-1.7,SCRUB
+Sekou Doumbouya,doumbse01,Pistons,PF,20.109514,,-1.4,-1.0,0.0,0.3,0.1,-1.9,PROJECT
+Kevin Knox II,knoxke01,Knicks,PF,21.478439,,-1.3,-0.6,-0.2,0.0,0.0,-2.1,PROJECT
+Cristiano Felicio,feliccr01,Bulls,C,28.57221,,-1.1,-0.7,-0.4,-0.4,-0.2,-2.8,SCRUB
